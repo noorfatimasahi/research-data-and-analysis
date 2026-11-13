@@ -1,0 +1,2468 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Jaywant, A
+   Wasserman, V
+   Kemppainen, M
+   Neargarder, S
+   Cronin-Golomb, A
+AF Jaywant, Abhishek
+   Wasserman, Victor
+   Kemppainen, Maaria
+   Neargarder, Sandy
+   Cronin-Golomb, Alice
+TI Perception of Communicative and Non-communicative Motion-Defined
+   Gestures in Parkinson's Disease
+SO JOURNAL OF THE INTERNATIONAL NEUROPSYCHOLOGICAL SOCIETY
+LA English
+DT Article
+DE Neurodegenerative diseases; Gender; Interpersonal relations; Motor
+   activity; Social behavior; Biological motion
+ID EMOTIONAL FACIAL EXPRESSIONS; MIRROR NEURON SYSTEM; BIOLOGICAL MOTION;
+   POINT-LIGHT; SEX-DIFFERENCES; RECOGNITION; MIND; DISPLAYS; METAANALYSIS
+AB Objectives: Parkinson's disease (PD) is associated with deficits in social cognition and visual perception, but little is known about how the disease affects perception of socially complex biological motion, specifically motion-defined communicative and non-communicative gestures. We predicted that individuals with PD would perform more poorly than normal control (NC) participants in discriminating between communicative and non-communicative gestures, and in describing communicative gestures. We related the results to the participants' gender, as there are gender differences in social cognition in PD. Methods: The study included 23 individuals with PD (10 men) and 24 NC participants (10 men) matched for age and education level. Participants viewed point-light human figures that conveyed communicative and non-communicative gestures and were asked to describe each gesture while discriminating between the two gesture types. Results: PD as a group were less accurate than NC in describing non-communicative but not communicative gestures. Men with PD were impaired in describing and discriminating between communicative as well as non-communicative gestures. Conclusions: The present study demonstrated PD-related impairments in perceiving and inferring the meaning of biological motion gestures. Men with PD may have particular difficulty in understanding the communicative gestures of others in interpersonal exchanges.
+C1 [Jaywant, Abhishek; Wasserman, Victor; Kemppainen, Maaria; Neargarder, Sandy; Cronin-Golomb, Alice] Boston Univ, Dept Psychol & Brain Sci, 648 Beacon St,Floor 2, Boston, MA 02215 USA.
+   [Neargarder, Sandy] Bridgewater State Univ, Dept Psychol, Bridgewater, MA USA.
+C3 Boston University; Massachusetts System of Public Higher Education;
+   Bridgewater State University
+RP Cronin-Golomb, A (corresponding author), Boston Univ, Dept Psychol & Brain Sci, 648 Beacon St,Floor 2, Boston, MA 02215 USA.
+EM alicecg@bu.edu
+RI Jaywant, Abhishek/AAK-4727-2021
+OI Jaywant, Abhishek/0000-0003-4307-5742
+FU National Institute of Neurological Disorders and Stroke, Ruth L.
+   Kirschstein National Research Service Award [F31 NS078919]; R01 grant
+   [R01 NS067128]
+FX This work was supported by the National Institute of Neurological
+   Disorders and Stroke, including a Ruth L. Kirschstein National Research
+   Service Award to A.J. (grant number F31 NS078919) and an R01 grant to
+   A.C.G. (grant number R01 NS067128). We thank Terry Ellis, Ph.D., and
+   Serge Roy, Sc.D., for help with experimental design, statistical
+   analysis, and manuscript review, and Marie Saint-Hilaire, M.D., Cathi
+   Thomas, R.N., M.S.N., and the Fox Foundation Trial Finder for
+   participant recruitment. We are grateful to members of the Vision &
+   Cognition Laboratory for their assistance in scoring and especially to
+   Valerie Levit, B.A., who also assisted in data organization. We
+   acknowledge the contribution of Aaron Newman, Ph.D., who created the
+   point-light figures stimulus set. The authors of this study have no
+   conflicts of interest to declare.
+CR Atkinson AP, 2004, PERCEPTION, V33, P717, DOI 10.1068/p5096
+   Baggio HC, 2012, NEUROPSYCHOLOGIA, V50, P2121, DOI 10.1016/j.neuropsychologia.2012.05.020
+   Bidet-Ildei C, 2010, ACTA PSYCHOL, V134, P215, DOI 10.1016/j.actpsy.2010.02.002
+   Bodden ME, 2010, PARKINSONISM RELAT D, V16, P466, DOI 10.1016/j.parkreldis.2010.04.014
+   Bodden ME, 2010, MOVEMENT DISORD, V25, P13, DOI 10.1002/mds.22818
+   Bonivento C, 2013, EXP BRAIN RES, V224, P211, DOI 10.1007/s00221-012-3300-8
+   Brainard DH, 1997, SPATIAL VISION, V10, P433, DOI 10.1163/156856897X00357
+   Buxton SL, 2013, BEHAV NEUROSCI, V127, P193, DOI 10.1037/a0032013
+   Calvo-Merino B, 2005, CEREB CORTEX, V15, P1243, DOI 10.1093/cercor/bhi007
+   Clark US, 2008, NEUROPSYCHOLOGIA, V46, P2300, DOI 10.1016/j.neuropsychologia.2008.03.014
+   Clark US, 2010, NEUROPSYCHOLOGIA, V48, P1901, DOI 10.1016/j.neuropsychologia.2010.03.006
+   Clarke TJ, 2005, PERCEPTION, V34, P1171, DOI 10.1068/p5203
+   Dara C, 2008, BRAIN RES, V1188, P100, DOI 10.1016/j.brainres.2007.10.034
+   DITTRICH WH, 1993, PERCEPTION, V22, P15, DOI 10.1068/p220015
+   Freedman M, 2011, J NEUROL SCI, V310, P225, DOI 10.1016/j.jns.2011.06.004
+   Gilaie-Dotan S, 2013, NEUROPSYCHOLOGIA, V51, P457, DOI 10.1016/j.neuropsychologia.2012.11.027
+   Gray HA, 2010, NEUROPSYCHOLOGY, V24, P176, DOI 10.1037/a0018104
+   Grossman ED, 2005, VISION RES, V45, P2847, DOI 10.1016/j.visres.2005.05.027
+   Grossman ED, 2004, J COGNITIVE NEUROSCI, V16, P1669, DOI 10.1162/0898929042568569
+   HUGHES AJ, 1992, J NEUROL NEUROSUR PS, V55, P181, DOI 10.1136/jnnp.55.3.181
+   Iacoboni M, 2006, NAT REV NEUROSCI, V7, P942, DOI 10.1038/nrn2024
+   Ibarretxe-Bilbao N, 2009, EUR J NEUROSCI, V30, P1162, DOI 10.1111/j.1460-9568.2009.06892.x
+   Isaacowitz DM, 2007, PSYCHOL AGING, V22, P147, DOI 10.1037/0882-7974.22.1.147
+   Jaywant A, 2016, NEUROPSYCHOLOGY
+   JOHANSSON G, 1973, PERCEPT PSYCHOPHYS, V14, P201, DOI 10.3758/BF03212378
+   Kleiner M, 2007, PERCEPTION, V36, P14
+   Klooster NB, 2015, FRONT HUM NEUROSCI, V8, DOI 10.3389/fnhum.2014.01054
+   Legault I, 2012, NEUROREPORT, V23, P469, DOI 10.1097/WNR.0b013e328353e48a
+   Leiguarda RC, 1997, BRAIN, V120, P75, DOI 10.1093/brain/120.1.75
+   Lotze M, 2006, NEUROPSYCHOLOGIA, V44, P1787, DOI 10.1016/j.neuropsychologia.2006.03.016
+   Lotze M, 2009, J COGNITIVE NEUROSCI, V21, P1321, DOI 10.1162/jocn.2009.21087
+   Lubomski M, 2014, J CLIN NEUROSCI, V21, P1503, DOI 10.1016/j.jocn.2013.12.016
+   Marquardt T.P., 2014, Speech, Language and Hearing, V17, P133, DOI [DOI 10.1179/2050572813Y.0000000031, 10.1179/2050572813Y.0000000031]
+   MARTINEZMARTIN P, 1994, MOVEMENT DISORD, V9, P76, DOI 10.1002/mds.870090112
+   MCNEILL D, 1985, PSYCHOL REV, V92, P350, DOI 10.1037/0033-295X.92.3.350
+   McNeill D., 1992, Hand and Mind
+   Miller IN, 2010, MOVEMENT DISORD, V25, P2695, DOI 10.1002/mds.23388
+   Montgomery KJ, 2007, SOC COGN AFFECT NEUR, V2, P114, DOI 10.1093/scan/nsm004
+   Pell MD, 2014, NEUROPSYCHOLOGY, V28, P905, DOI 10.1037/neu0000090
+   Pelli DG, 1997, SPATIAL VISION, V10, P437, DOI 10.1163/156856897X00366
+   Pereira JB, 2009, MOVEMENT DISORD, V24, P1193, DOI 10.1002/mds.22560
+   Péron J, 2010, PLOS ONE, V5, DOI 10.1371/journal.pone.0009919
+   Roether CL, 2009, J VISION, V9, DOI 10.1167/9.6.15
+   Serino A, 2010, J COGNITIVE NEUROSCI, V22, P413, DOI 10.1162/jocn.2009.21206
+   Thompson AE, 2014, COGNITION EMOTION, V28, P1164, DOI 10.1080/02699931.2013.875889
+   Tomlinson CL, 2010, MOVEMENT DISORD, V25, P2649, DOI 10.1002/mds.23429
+   Yip JTH, 2003, MOVEMENT DISORD, V18, P1115, DOI 10.1002/mds.10497
+   Zaini H, 2013, BEHAV RES METHODS, V45, P319, DOI 10.3758/s13428-012-0273-2
+   Zarei M, 2013, J NEUROL NEUROSUR PS, V84, P875, DOI 10.1136/jnnp-2012-304126
+NR 49
+TC 13
+Z9 13
+U1 0
+U2 13
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 1355-6177
+EI 1469-7661
+J9 J INT NEUROPSYCH SOC
+JI J. Int. Neuropsychol. Soc.
+PD MAY
+PY 2016
+VL 22
+IS 5
+BP 540
+EP 550
+DI 10.1017/S1355617716000114
+PG 11
+WC Clinical Neurology; Neurosciences; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry; Psychology
+GA DU8SJ
+UT WOS:000382484300006
+PM 27055646
+OA Green Accepted
+DA 2026-11-10
+ER
+
+PT J
+AU Price, HE
+   Mann, A
+   Morrison, SJ
+AF Price, Harry E.
+   Mann, Alison
+   Morrison, Steven J.
+TI Effect of conductor expressivity on ensemble evaluations by nonmusic
+   majors
+SO INTERNATIONAL JOURNAL OF MUSIC EDUCATION
+LA English
+DT Article
+DE audio assessment; conductor; ensemble; expressivity; perception; video
+   assessment
+ID PERFORMER ATTRACTIVENESS; STAGE BEHAVIOR; SEEING MUSIC; PERCEPTION;
+   GESTURES; INTENSITY; QUALITY; DRESS
+AB This study continues research that examines effects that conductors have on the assessment of ensemble performances. The current study used the same four recordings orders of two strict and two expressive examples by two conductors with a single repeated recording used in previous research, but the participants were not music majors. In addition to assessing the conductor and ensemble performances, they were asked to list one item each for each excerpt regarding the conductor and ensemble being evaluated. Results similar to those from the previous research were found in this study: there was a difference in the conductors' evaluations. However, there was a difference in the ensemble ratings, depending on the conductor style, even though it was the identical audio performance. The eta-squared values for the four orders ranged from .444 to .567. Effect sizes for the ensembles were smaller, as expected, but still consequential, .121 to .450. Comments provided by students indicate a strong relationship of strict and expressive conducting to involvement/leadership and gesture. We need to consider what effect conductors might have on our perception of musical quality or the effect the performance has on assessment of the conductor.
+C1 [Price, Harry E.; Mann, Alison] Kennesaw State Univ, 1000 Chastain Rd 3201, Kennesaw, GA 30144 USA.
+   [Morrison, Steven J.] Univ Washington, Seattle, WA 98195 USA.
+C3 University System of Georgia; Kennesaw State University; University of
+   Washington; University of Washington Seattle
+RP Price, HE (corresponding author), Kennesaw State Univ, Sch Mus, 1000 Chastain Rd 3201, Kennesaw, GA 30144 USA.
+EM hprice8@kennesaw.edu
+RI Morrison, Steven/JKI-7499-2023
+OI Morrison, Steven/0000-0002-1036-9544
+CR Bender TS, 2010, J BAND RES, V46, P13
+   BYO JL, 1994, J BAND RES, V30, P11
+   BYO JL, 1990, J RES MUSIC EDUC, V38, P157, DOI 10.2307/3345179
+   Clarke E.F., 1999, PSYCHOL MUSIC, V2nd, P473, DOI [10.1016/B978-012213564-4/50014-7, DOI 10.1016/B978-012213564-4/50014-7]
+   Clarke Eric., 2005, WAYS LISTENING ECOLO
+   COHEN J, 1992, PSYCHOL BULL, V112, P155, DOI 10.1037/0033-2909.112.1.155
+   Cohen J., 1988, STAT POWER ANAL BEHA, P19, DOI [10.4324/9780203771587, DOI 10.4324/9780203771587]
+   Davidson J.W., 1993, Psychology of Music, V21, P103, DOI [10.1177/030573569302100201, DOI 10.1177/030573569302100201]
+   Davidson J.W., 2002, The science and psychology of music performance. Creative strategies for teaching and learning, P237, DOI [DOI 10.1093/ACPROF:OSO/97801951381, 10.1093/acprof:oso/9780195138108.003.0015, DOI 10.1093/ACPROF:OSO/9780195138108.003.0015]
+   Elliot C.A., 1995, Bulletin of the Council for Research in Music Education, V127, P50
+   Fredrickson WE, 1998, J BAND RES, V33, P1
+   Gabrielsson A., 1999, Psychology of Music, V2nd, P501, DOI [10.1016/B978-012213564-4/50015-9, DOI 10.1016/B978-012213564-4/50015-9]
+   Gellrich M., 1988, UBEN MUSIZIEREN, V5, P179
+   Gellrich Martin., 1991, British Journal of Music Education, V8, P167, DOI DOI 10.1017/S0265051700008275
+   Grechesky R. N., 1985, DISS ABSTR INT, V48, p2656A
+   House R. E, 2000, NAT MENC IN SERV C W
+   Juchniewicz J, 2008, PSYCHOL MUSIC, V36, P417, DOI 10.1177/0305735607086046
+   Labuta J.A., 2010, Basic conducting techniques
+   Laib J.R., 1993, Dissertation Abstracts International, V59, P3258
+   Luck G, 2006, MUSIC PERCEPT, V24, P189, DOI 10.1525/mp.2006.24.2.189
+   Mayne R.G., 1992, DISSERT ABSTR, V53, P2729
+   MCGURK H, 1976, NATURE, V264, P746, DOI 10.1038/264746a0
+   McPherson G.E., 1998, RES STUD MUSIC EDUC, V10, P12, DOI [10.1177/1321103x9801000102, DOI 10.1177/1321103X9801000102, 10.1177/1321103X9801000102]
+   Morrison SJ, 2009, J RES MUSIC EDUC, V57, P37, DOI 10.1177/0022429409332679
+   National Association of Schools of Music, 2014, NAT ASS SCH MUS HDB
+   Price H.E., 2001, CONTRIBUTIONS MUSIC, V28, P9
+   Price HE, 2006, J RES MUSIC EDUC, V54, P203, DOI 10.2307/4151342
+   Price HE, 2011, B COUN RES MUSIC ED, P57
+   Price HE, 2005, J RES MUSIC EDUC, V53, P66, DOI 10.2307/3345607
+   PRICE HE, 1991, J BAND RES, V27, P30
+   Ryan C, 2004, J RES MUSIC EDUC, V52, P141, DOI 10.2307/3345436
+   Schutz M, 2007, PERCEPTION, V36, P888, DOI 10.1068/p5635
+   Sheldon D. A., 2000, QUADRENI SIEM SEMEST, V16, P287
+   Shove Patrick., 1995, The Practice of Performance: Studies in Musical Interpretation, P55, DOI DOI 10.1017/CBO9780511552366.004
+   Sidoti V. J., 1990, THESIS OHIO STATE U
+   Small Christopher., 1998, MUSICKING MEANINGS P
+   Sousa G. D, 1989, DISS ABSTR INT, V49, P2143
+   Thompson WF, 2005, SEMIOTICA, V156, P203, DOI 10.1515/semi.2005.2005.156.203
+   Vines BW, 2006, COGNITION, V101, P80, DOI 10.1016/j.cognition.2005.09.003
+   Wapnick J, 1998, J RES MUSIC EDUC, V46, P510, DOI 10.2307/3345347
+   WAPNICK J, 1993, J RES MUSIC EDUC, V41, P282, DOI 10.2307/3345504
+   Wapnick J, 1997, J RES MUSIC EDUC, V45, P470, DOI 10.2307/3345540
+   Wapnick J, 2000, J RES MUSIC EDUC, V48, P323, DOI 10.2307/3345367
+NR 43
+TC 13
+Z9 23
+U1 0
+U2 10
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0255-7614
+EI 1744-795X
+J9 INT J MUSIC EDUC
+JI Int. J. Music Educ.
+PD MAY
+PY 2016
+VL 34
+IS 2
+BP 135
+EP 142
+DI 10.1177/0255761415617925
+PG 8
+WC Education & Educational Research; Music
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Education & Educational Research; Music
+GA DK1KR
+UT WOS:000374671600001
+DA 2026-11-10
+ER
+
+PT J
+AU Tenenberg, J
+   Socha, D
+   Roth, WM
+AF Tenenberg, Josh
+   Socha, David
+   Roth, Wolff-Michael
+TI Seeing design stances
+SO CODESIGN-INTERNATIONAL JOURNAL OF COCREATION IN DESIGN AND THE ARTS
+LA English
+DT Article
+DE embodiment; design critique; gesture; Design stance
+ID ORGANIZATION; PERCEPTION; GESTURES; TALK
+AB In this paper, we investigate the stances that designers take in relation to one another in design critiques. Analysis of audiovisual recordings of critiques between students and professional designers in industrial design in the DTRS 10 data-set reveals that design concepts not only are verbally narrated but also come to life in gesture, gaze, orientation and body movement. In these bodily performances, participants adopt and shift between several identified stances, which we call inscriptional, third-person, first-person and phenomenal. In social relations, these stances are mirrored, taken up, responded to and elaborated by the other participants. The critique itself, then, can be seen as a dialogical movement by the participating designers through a set of stances. By comparing a case in which participants are collocated to a case in which the participants are at a geographic distance facilitated only by real-time audio and shared computer display, we conjecture that this responsive mirroring and elaboration of stance can be hindered when participants do not have visual access to one another and thus increase the chances of communication breakdowns.
+C1 [Tenenberg, Josh] Univ Washington Tacoma, Inst Technol, Tacoma, WA USA.
+   [Socha, David] Univ Washington Bothell, Comp & Software Syst, Bothell, WA USA.
+   [Roth, Wolff-Michael] Univ Victoria, Fac Educ, Appl Cognit Sci, Victoria, BC, Canada.
+C3 University of Washington; University of Washington Tacoma; University of
+   Washington; University of Washington Bothell; University of Victoria
+RP Tenenberg, J (corresponding author), Univ Washington Tacoma, Inst Technol, Tacoma, WA USA.
+EM jtenenbg@u.washington.edu
+CR Adams RS., 2013, ) Purdue DTRS Design review conversations database
+   Chartrand TL, 1999, J PERS SOC PSYCHOL, V76, P893, DOI 10.1037/0022-3514.76.6.893
+   Collins Randall., 2004, INTERACTION RITUAL C
+   Cross N, 2001, DES ISSUES, V17, P49, DOI 10.1162/074793601750357196
+   Dannels DP, 2005, COMMUN EDUC, V54, P136, DOI 10.1080/03634520500213165
+   Fleming D, 1998, DES ISSUES, V14, P41, DOI 10.2307/1511850
+   Gaffney Amy Lynn Housely, 2010, THESIS N CAROLINA ST
+   Gardner Rod., 2001, When Listeners Talk, DOI [DOI 10.1075/PBNS.92, https://doi.org/10.1075/pbns.92]
+   Glock F, 2009, CODESIGN, V5, P5, DOI 10.1080/15710880802492870
+   Goodwin C, 2007, DISCOURSE SOC, V18, P53, DOI 10.1177/0957926507069457
+   Heath C., 1986, Body movement and speech in medical interaction, DOI [10.1017/CBO9780511628221, DOI 10.1017/CBO9780511628221]
+   Heath C.C., 1993, Technology in Working Order: Studies of Work, Interaction, and Technology, P35
+   Heidegger Martin., 1978, BEING TIME
+   Latour Bruno., 1987, Science in action: how to follow scientists and engineers through society
+   Liddell Scott., 2003, Grammar, Gesture, and Meaning in American Sign Language, DOI [DOI 10.1017/CBO9780511615054, 10.1017/CBO9780511615054, 10.1017/cbo9780511615054]
+   Lim YK, 2008, ACM T COMPUT-HUM INT, V15, DOI 10.1145/1375761.1375762
+   MAURER RE, 1983, J COUNS PSYCHOL, V30, P158, DOI 10.1037/0022-0167.30.2.158
+   McDonnell J, 2014, DESIGN STUD, V35, P327, DOI 10.1016/j.destud.2014.01.003
+   McNeill David., 2005, GESTURE THOUGHT, DOI DOI 10.7208/CHICAGO/9780226514642.001.0001
+   Medway P., 2003, Design Studies, V24, P255, DOI DOI 10.1016/S0142-694X(02)00055-8
+   Murphy KM, 2012, J PRAGMATICS, V44, P1966, DOI 10.1016/j.pragma.2012.08.013
+   Murphy KM, 2005, SEMIOTICA, V156, P113
+   Nelson H., 2003, DESIGN WAY INTENTION
+   Oak Arlene, 2014, DES THINK RES S 10 W
+   Oh Y, 2013, DESIGN STUD, V34, P302, DOI 10.1016/j.destud.2012.08.004
+   Pomerantz A., 1984, STRUCTURE SOCIAL ACT, P57, DOI [10.1017/CBO9780511665868.008, DOI 10.1017/CBO9780511665868.008, 10.1093/oso/9780190927431.003.0002, DOI 10.1093/OSO/9780190927431.003.0002]
+   Roth W-M., 2011, Geometry as Objective Science in Elementary Classrooms: Mathematics in the Flesh
+   Roth WM, 2001, REV EDUC RES, V71, P365, DOI 10.3102/00346543071003365
+   Roth WM, 1998, REV EDUC RES, V68, P35, DOI 10.3102/00346543068001035
+   Roth WM, 2010, CULT STUD SCI EDUCAT, V5, P807, DOI 10.1007/s11422-010-9272-8
+   Roth WM, 2015, COGNITIVE SCI, V39, P405, DOI 10.1111/cogs.12152
+   SACKS H, 1974, LANGUAGE, V50, P696, DOI 10.2307/412243
+   Schon D., 1982, REFLECTIVE PRACTITIO, DOI DOI 10.4324/9781315237473
+   Socha David, 2015, ANAL DESIGN REVIEW C
+   TANNEN D, 1989, TALKING VOICES REPIT
+   Tenenberg J, 2005, COMPUT SCI EDUC, V15, P297, DOI 10.1080/08993400500307677
+   Tenenberg J, 2016, COMPUT SUPP COOP W J, V25, P235, DOI 10.1007/s10606-014-9215-0
+   Tomasello M., 1999, CULTURAL ORIGINS HUM, DOI [DOI 10.4159/9780674044371, 10.4159/9780674044371]
+   Vinciarelli A, 2009, IMAGE VISION COMPUT, V27, P1743, DOI 10.1016/j.imavis.2008.11.007
+   Visser W., 2009, [No title captured], P269
+NR 40
+TC 5
+Z9 5
+U1 0
+U2 7
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 1571-0882
+EI 1745-3755
+J9 CODESIGN
+JI CoDesign
+PD APR 2
+PY 2016
+VL 12
+IS 1-2
+SI SI
+BP 6
+EP 25
+DI 10.1080/15710882.2015.1127386
+PG 20
+WC Art
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Art
+GA DH8AK
+UT WOS:000373015300002
+DA 2026-11-10
+ER
+
+PT J
+AU Hadley, EB
+   Dickinson, DK
+   Hirsh-Pasek, K
+   Golinkoff, RM
+   Nesbitt, KT
+AF Hadley, Elizabeth B.
+   Dickinson, David K.
+   Hirsh-Pasek, Kathy
+   Golinkoff, Roberta Michnick
+   Nesbitt, Kimberly T.
+TI Examining the Acquisition of VocabularyKnowledge Depth AmongPreschool
+   Students
+SO READING RESEARCH QUARTERLY
+LA English
+DT Article
+DE Oral language; Expressive language; Language acquisition; Language
+   development; Research methodology; Experimental; quasi-experimental;
+   Vocabulary; General vocabulary; Early childhood
+ID READING-COMPREHENSION; LOW-INCOME; WORD; CHILDREN; KNOWLEDGE; LANGUAGE;
+   ABILITY; SKILLS; GESTURE; MODEL
+AB Well-developed lexical representations are important for reading comprehension, but there have been no prior attempts to track growth in the depth of knowledge of particular words. This article examines increases in depth of vocabulary knowledge in 4-5-year-old preschool students (n=240) who participated in a vocabulary intervention that taught words through book reading and book-related play. At pretest and posttest, students defined words verbally and by using gesture. Responses were coded for type of semantic information given. There were significant increases in depth of knowledge for all word types. Concrete nouns were learned significantly better than all other word types, and verbs were learned significantly better than abstract nouns and adjectives. Analysis of semantic content provided nuanced information about word learning across word types. Synonyms and contextual information were learned well for all word types, whereas functional information was learned best for concrete nouns. These results suggest that ease of word learning may not be influenced solely by perceptual accessibility of words but also by the kind of instructional information that can be provided for different word types.
+C1 [Hadley, Elizabeth B.; Dickinson, David K.] Vanderbilt Univ, Dept Teaching Learning & Divers, 221 Kirkland Hall, Nashville, TN 37235 USA.
+   [Hirsh-Pasek, Kathy] Temple Univ, Dept Psychol, Philadelphia, PA 19122 USA.
+   [Golinkoff, Roberta Michnick] Univ Delaware, Dept Psychol, Newark, DE 19716 USA.
+   [Golinkoff, Roberta Michnick] Univ Delaware, Dept Linguist & Cognit Sci, Newark, DE 19716 USA.
+   [Nesbitt, Kimberly T.] Univ New Hampshire, Dept Human Dev & Family Studies, Durham, NH 03824 USA.
+C3 Vanderbilt University; Pennsylvania Commonwealth System of Higher
+   Education (PCSHE); Temple University; University of Delaware; University
+   of Delaware; University System Of New Hampshire; University of New
+   Hampshire
+RP Hadley, EB (corresponding author), Vanderbilt Univ, Dept Teaching Learning & Divers, 221 Kirkland Hall, Nashville, TN 37235 USA.
+EM elizabeth.b.hadley@vanderbilt.edu; david.dickinson@vanderbilt.edu;
+   khirshpa@temple.edu; roberta@udel.edu; kimberly.nesbitt@unh.edu
+RI Hadley, Elizabeth/ABC-9638-2020
+OI Hadley, Elizabeth/0000-0002-2880-6175; Nesbitt,
+   Kimberly/0000-0002-1547-284X
+CR Anderson R.C., 1981, Comprehension and teaching: Research reviews, P77
+   [Anonymous], 2008, Developing early literacy: Report of the National Early Literacy Panel
+   Beck I.L., 2002, Bringing words to life: Robust vocabulary instruction
+   Beck IL, 2007, ELEM SCHOOL J, V107, P251, DOI 10.1086/511706
+   Biemiller A, 2006, J EDUC PSYCHOL, V98, P44, DOI 10.1037/0022-0663.98.1.44
+   Biemiller A., 2010, Words worth teaching: Closing the vocabulary gap
+   Bion RAH, 2013, COGNITION, V126, P39, DOI 10.1016/j.cognition.2012.08.008
+   Blewitt P, 2009, J EDUC PSYCHOL, V101, P294, DOI 10.1037/a0013844
+   Bloom P., 2000, CHILDREN LEARN MEANI
+   Bolger DJ, 2008, DISCOURSE PROCESS, V45, P122, DOI 10.1080/01638530701792826
+   Booth AE, 2002, COGNITION, V84, pB11, DOI 10.1016/S0010-0277(02)00015-X
+   Booth AE, 2009, CHILD DEV, V80, P1243, DOI 10.1111/j.1467-8624.2009.01328.x
+   Cain K, 2004, J EDUC PSYCHOL, V96, P31, DOI 10.1037/0022-0663.96.1.31
+   Capone NC, 2007, J SPEECH LANG HEAR R, V50, P732, DOI 10.1044/1092-4388(2007/051)
+   Carey S., 1978, Linguistic theory and psychological reality, P264
+   Chall J.S., 1995, READABILITY REVISITE
+   Christ T, 2011, J LIT RES, V43, P130, DOI 10.1177/1086296X11403267
+   Clark EV, 2010, 1 LANGUAGE ACQUISITI
+   Coyne M.D., 2004, Exceptionality, V12, P145, DOI [DOI 10.1207/S15327035EX1203_3, 10.1207/s15327035ex12033, DOI 10.1207/S15327035EX12033, 10.1207/s15327035ex1203_3, DOI 10.1207/S15327035-X1203_3]
+   Cronbach L.J., 1971, Educational measurement, V2nd, P443, DOI DOI 10.1016/J.COMPEDU.2014.12.020
+   DALE E, 1965, ELEM ENGL, V42, P895
+   Dickinson D., 2001, LEARNING DISABILITIE, V16, P186, DOI [10.1111/0938-8982.00019, DOI 10.1111/0938-8982.00019]
+   Dickinson D. K., 2013, ANN M AM ED RES ASS
+   DOLLAGHAN C, 1985, J SPEECH HEAR RES, V28, P449, DOI 10.1044/jshr.2803.454
+   Dunn L.M., 1997, PEABODY PICTURE VOCA, V3rd
+   Gentner D., 2001, LANG ACQUIS, V3, P215, DOI [10.1017/CBO9780511620669.010, DOI 10.1017/CBO9780511620669.010]
+   Gentner Dedre., 1982, Language Development: Vol. 2. Language, Thought, V2, P301
+   Gillette J, 1999, COGNITION, V73, P135, DOI 10.1016/S0010-0277(99)00036-0
+   Glenberg AM, 2004, J EDUC PSYCHOL, V96, P424, DOI 10.1037/0022-0663.96.3.424
+   Göksun T, 2010, COGNITIVE DEV, V25, P56, DOI 10.1016/j.cogdev.2009.11.001
+   Golinkoff RM, 2002, DEV PSYCHOL, V38, P604, DOI 10.1037//0012-1649.38.4.604
+   Greif ML, 2006, PSYCHOL SCI, V17, P455, DOI 10.1111/j.1467-9280.2006.01727.x
+   GROPEN J, 1991, J CHILD LANG, V18, P115, DOI 10.1017/S0305000900013325
+   Henriksen B., 1999, Studies in Second Language Acquisition, V21, P303, DOI [10.1017/S0272263199002089, DOI 10.1017/S0272263199002089, 10.1017/s0272263199002089]
+   Hollich G.J., 2000, Breaking the language barrier, V65, P17
+   Imai M, 2008, CHILD DEV, V79, P979, DOI 10.1111/j.1467-8624.2008.01171.x
+   Landi N, 2007, BRAIN LANG, V102, P30, DOI 10.1016/j.bandl.2006.11.001
+   Maguire M.J., 2006, Action Meets Word: How Children Learn Verbs, P364, DOI [10.1093/acprof:oso/9780195170009.003.0015, DOI 10.1093/ACPROF:OSO/9780195170009.003.0015]
+   McNeil NM, 2000, J NONVERBAL BEHAV, V24, P131, DOI 10.1023/A:1006657929803
+   Medina TN, 2011, P NATL ACAD SCI USA, V108, P9014, DOI 10.1073/pnas.1105040108
+   Messick S., 1989, Educational measurement, V3rd, P13, DOI DOI 10.1002/J.2330-8516.1987.TB00244.X
+   MILLER GA, 1991, COGNITION, V41, P197, DOI 10.1016/0010-0277(91)90036-4
+   Morgan PL, 2008, J LEARN DISABIL-US, V41, P387, DOI 10.1177/0022219408321112
+   Nagy W., 2001, Handbook of reading research, V3, P269
+   Nagy W, 2012, READ RES QUART, V47, P91, DOI 10.1002/RRQ.011
+   Nation K, 1998, J MEM LANG, V39, P85, DOI 10.1006/jmla.1998.2564
+   Nelson DGK, 2008, J COGN DEV, V9, P171, DOI 10.1080/15248370802022621
+   Neuman SB, 2006, READ RES QUART, V41, P176, DOI 10.1598/RRQ.41.2.2
+   Ordóñez CL, 2002, J EDUC PSYCHOL, V94, P719, DOI 10.1037//0022-0663.94.4.719
+   Ouellette GP, 2006, J EDUC PSYCHOL, V98, P554, DOI 10.1037/0022-0663.98.3.554
+   PAIVIO A, 1968, J EXP PSYCHOL, V76, P1, DOI 10.1037/h0025327
+   Perfetti C, 2007, SCI STUD READ, V11, P357, DOI 10.1080/10888430701530730
+   Proctor CP, 2012, READ WRIT, V25, P1635, DOI 10.1007/s11145-011-9336-5
+   Quinn JM, 2015, CHILD DEV, V86, P159, DOI 10.1111/cdev.12292
+   Raudenbush S.W., 2001, HIERARCHICAL LINEAR, V2nd
+   Read J., 2004, Vocabulary in a Second Language, P209, DOI [10.1075/lllt.10.15rea, DOI 10.1075/LLLT.10.15REA]
+   Roth P, 2002, J EDUC RES, V95, P259, DOI 10.1080/00220670209596600
+   Schoonen R, 2008, LANG TEST, V25, P211, DOI 10.1177/0265532207086782
+   Snow C. E., 2009, CAMBRIDGE HDB LITERA, P112, DOI [https://doi.org/10.1017/CBO9780511609664.008, DOI 10.1017/CBO9780511609664.008]
+   Snow C.E., 1991, LANGUAGE PROCESSING, P90, DOI DOI 10.1017/CBO9780511620652.007
+   STAHL SA, 1986, REV EDUC RES, V56, P72, DOI 10.3102/00346543056001072
+   Storch SA, 2002, DEV PSYCHOL, V38, P934, DOI 10.1037//0012-1649.38.6.934
+   Vellutino FR, 2007, SCI STUD READ, V11, P3, DOI 10.1207/s1532799xssr1101_2
+   VERHALLEN M, 1993, APPL LINGUIST, V14, P344, DOI 10.1093/applin/14.4.344
+   Wasik BA, 2014, EARLY EDUC DEV, V25, P1035, DOI 10.1080/10409289.2014.896064
+   Weisberg DS, 2015, COGNITIVE DEV, V35, P1, DOI 10.1016/j.cogdev.2014.11.001
+   Wiig E.H., 1992, TEST WORD KNOWLEDGE, DOI DOI 10.1037/T15161-000
+   Yu C, 2012, PSYCHOL REV, V119, P21, DOI 10.1037/a0026182
+NR 68
+TC 81
+Z9 108
+U1 0
+U2 51
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0034-0553
+EI 1936-2722
+J9 READ RES QUART
+JI Read. Res. Q.
+PD APR-JUN
+PY 2016
+VL 51
+IS 2
+BP 181
+EP 198
+DI 10.1002/rrq.130
+PG 18
+WC Education & Educational Research; Psychology, Educational
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research; Psychology
+GA DI3BH
+UT WOS:000373372700004
+DA 2026-11-10
+ER
+
+PT J
+AU Hsiao, HS
+   Chen, JC
+AF Hsiao, Hsien-Sheng
+   Chen, Jyun-Chen
+TI Using a gesture interactive game-based learning approach to improve
+   preschool children's learning performance and motor skills
+SO COMPUTERS & EDUCATION
+LA English
+DT Article
+DE Interactive learning environments; Multimedia/hypermedia systems;
+   Teaching/learning strategies; Virtual reality
+ID MOTIVATION
+AB Children love to play games, and early childhood is a critical time for developing motor skills. This study combined gesture-based computing technology and a game-based learning model to develop a gesture interactive game-based learning (GIGL) approach that was suitable for preschool children. In this research, the ASUS Xtion PRO was used as a game-based device to build a virtual interactive learning environment for preschoolers. The aim of this study was to implement the GIGL approach to improve the learning performance and motor skills (namely, coordination and agility) of the participants. Based on a quasi-experiment involving 105 preschoolers (average age 5.5 years), the results showed that the participants who used the GIGL approach demonstrated better learning performance and motor skills than those who used the traditional activity game-based learning approach, and the statistics showed a significant deviation between the two approaches. Thus, this study provides additional evidence that using a GIGL approach is an effective learning method that improves both learning performance and motor skills to a greater extent compared with the traditional activity game-based learning approach. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Hsiao, Hsien-Sheng; Chen, Jyun-Chen] Natl Taiwan Normal Univ, 162,Sec 1,Heping E Rd, Taipei 106, Taiwan.
+C3 National Taiwan Normal University
+RP Chen, JC (corresponding author), Natl Taiwan Normal Univ, 162,Sec 1,Heping E Rd, Taipei 106, Taiwan.
+EM hssiu@ntnu.edu.tw; cv999999999@yahoo.com.tw
+FU "Aim for the Top University Project" of National Taiwan Normal
+   University (NTNU) - Ministry of Education, Taiwan, R.O.C.; "Center of
+   Learning Technology for Chinese" of National Taiwan Normal University
+   (NTNU) - Ministry of Education, Taiwan, R.O.C.; "International
+   Research-Intensive Center of Excellence Program" of NTNU; Ministry of
+   Science and Technology, Taiwan, R.O.C. [MOST 104-2911-I-003-301,
+   104-2622-S-003-001-, 104-2511-S-003-041-MY3, 103-2622-S-003-001,
+   103-2511-S-003-064-MY3, 103-2511-S-003-051-MY3]
+FX This research is partially supported by the "Aim for the Top University
+   Project" and "Center of Learning Technology for Chinese" of National
+   Taiwan Normal University (NTNU), sponsored by the Ministry of Education,
+   Taiwan, R.O.C. and the "International Research-Intensive Center of
+   Excellence Program" of NTNU and Ministry of Science and Technology,
+   Taiwan, R.O.C. under Grant no. MOST 104-2911-I-003-301,
+   104-2622-S-003-001-, 104-2511-S-003-041-MY3, 103-2622-S-003-001,
+   103-2511-S-003-064-MY3, 103-2511-S-003-051-MY3.
+CR Altanis G, 2013, INTERACT DES ARCHIT, P91
+   BOYCE W, 1992, CAN J PUBLIC HEALTH, V83, pS34
+   Chang F. C., 2010, EARLY CHILDHOOD ED, V21, P31
+   Chang H C., 2003, Chia-Nan Annual Bulletin, V29, P428
+   Chao KJ, 2013, BRIT J EDUC TECHNOL, V44, pE151, DOI 10.1111/bjet.12018
+   Csikszentmihalyi M., 1975, BOREDOM ANXIETY
+   Csikszentmihalyi Mihaly., 1991, FLOW PSYCHOL OPTIMAL, V41
+   Di Tore S., 2012, PROBLEMS ED 21 CENTU, V42, P29
+   Di Tore S., 2012, J HUMAN SPORT EXERCI, V7, P178, DOI DOI 10.4100/JHSE.2012.7.PROC1.20
+   Farid R, 2014, MACH LEARN, V94, P3, DOI 10.1007/s10994-013-5352-9
+   Fleming M., 1993, INSTRUCTIONAL MESSAG, V2nd
+   Folio M.R., 2000, Peabody Developmental Motor Scales
+   Gabbard C., 1987, Physical Education for Children
+   Gallahue D., 2013, COMPREENDENDO DESENV
+   Gallahue D. L., 1996, INSTRUCTORS MANUAL T
+   Gallahue D.L., 2003, DEV PHYS ED ALL CHIL, V4th
+   Gallahue DL., 2006, UNDERSTANDING MOTOR, V6th
+   Garris R., 2002, Simulation & Gaming, V33, P441, DOI 10.1177/1046878102238607
+   Ghergulescu I, 2014, INT J GAME-BASED LEA, V4, P15, DOI 10.4018/ijgbl.2014040102
+   Goshi F, 1999, PERCEPT MOTOR SKILL, V88, P169, DOI 10.2466/PMS.88.1.169-181
+   Hostetter AB, 2008, PSYCHON B REV, V15, P495, DOI 10.3758/PBR.15.3.495
+   Hsiao I.-H., 2015, Frontiers in Education Conference (FIE), P1, DOI [10.1109/EPTC.2015.7412351, DOI 10.1109/EPTC.2015.7412351]
+   Huang M. C., 2009, ERGONOMIC STUDY, V10, P1
+   Ibrahim R., 2011, Journal of Computer and Information Science, V4, P205, DOI DOI 10.5539/CIS.V4N1P205
+   Johnson L., 2012, The 2012 Horizon Report
+   KNIGHT D, 1993, PERCEPT MOTOR SKILL, V76, P1296, DOI 10.2466/pms.1993.76.3c.1296
+   Lee T. H., 2008, THESIS NATL TAIPEI U
+   Li P. L., 2014, SPECIAL ED ASSISTIVE, V10, P41
+   LU SJ, 2012, CURRICULUM INSTRUCTI, V15, P169
+   Martens RL, 2004, J COMPUT ASSIST LEAR, V20, P368, DOI 10.1111/j.1365-2729.2004.00096.x
+   Miller R. M., 2010, 8 INT C ED INF SYST
+   Ministry of Education, 2012, ED ACT CURR OUTL PRE
+   Ministry of Education, 2011, ED SERV GUID PRESCH
+   Mitchell A., 2005, USE COMPUTER VIDEO G
+   Ochoa Romulo, 2011, Physics Teacher, V49, P16, DOI 10.1119/1.3527747
+   Pallant J., 2005, SPSS SURVIVAL GUIDE, V2nd
+   Pei-Fen Wu, 2013, 2013 Fifth International Conference on Service Science and Innovation, P108, DOI 10.1109/ICSSI.2013.30
+   Piaget J., 1969, The psychology of the child
+   Piao S. C., 2010, THESIS NATL PINGTUNG
+   Pitchford NJ, 2005, J EXP CHILD PSYCHOL, V90, P275, DOI 10.1016/j.jecp.2004.12.005
+   Prensky M., 2007, Digital Game-Based Learning
+   Schmidt RA., 1988, MOTOR CONTROL LEARNI
+   Sheu FR, 2014, COMPUT EDUC, V78, P268, DOI 10.1016/j.compedu.2014.06.008
+   Sun SH, 2010, RES DEV DISABIL, V31, P1187, DOI 10.1016/j.ridd.2010.08.002
+   Tellier M, 2008, GESTURE, V8, P219, DOI 10.1075/gest.8.2.06tel
+   Wan-Ju Lee, 2012, 2012 IEEE 12th International Conference on Advanced Learning Technologies (ICALT), P557, DOI 10.1109/ICALT.2012.104
+   Wang T.-M., 1998, Psychological Testing, V45, P19, DOI DOI 10.1037/T77475-000
+   Wheeler Martyn D., 2011, Physics Education, V46, P57, DOI 10.1088/0031-9120/46/1/007
+   Wilson M, 2002, PSYCHON B REV, V9, P625, DOI 10.3758/BF03196322
+   Yang JC, 2008, DIGITEL 2008: SECOND IEEE INTERNATIONAL CONFERENCE ON DIGITAL GAME AND INTELLIGENT TOY ENHANCED LEARNING, PROCEEDINGS, P36, DOI 10.1109/DIGITEL.2008.40
+   Yang S.-C., 2014, Sports Exerc Res, V16, P287, DOI [DOI 10.5297/ser.1603.003, 10.5297/ser.1603.003, DOI 10.5297/SER.1603.003]
+NR 51
+TC 76
+Z9 92
+U1 3
+U2 119
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-1315
+EI 1873-782X
+J9 COMPUT EDUC
+JI Comput. Educ.
+PD APR
+PY 2016
+VL 95
+BP 151
+EP 162
+DI 10.1016/j.compedu.2016.01.005
+PG 12
+WC Computer Science, Interdisciplinary Applications; Education &
+   Educational Research
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Education & Educational Research
+GA DH3KT
+UT WOS:000372686600012
+DA 2026-11-10
+ER
+
+PT J
+AU De Jonge-Hoekstra, L
+   Van der Steen, S
+   Van Geert, P
+   Cox, RFA
+AF De Jonge-Hoekstra, Lisette
+   Van der Steen, Steffie
+   Van Geert, Paul
+   Cox, Ralf F. A.
+TI Asymmetric Dynamic Attunement of Speech and Gestures in the Construction
+   of Children's Understanding
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE recurrence analysis; synergies; children's learning; microdevelopment;
+   cognitive development; dynamic skill theory
+ID COGNITIVE-DEVELOPMENT; LIMB MOVEMENTS; RECURRENCE; KNOWLEDGE; RHYTHMS;
+   SYSTEMS; HANDS; COORDINATION; ORGANIZATION; ABSTRACTION
+AB As children learn they use their speech to express words and their hands to gesture. This study investigates the interplay between real-time gestures and speech as children construct cognitive understanding during a hands-on science task. 12 children (M = 6, F = 6) from Kindergarten (n = 5) and first grade (n = 7) participated in this study. Each verbal utterance and gesture during the task were coded, on a complexity scale derived from dynamic skill theory. To explore the interplay between speech and gestures, we applied a cross recurrence quantification analysis (CRQA) to the two coupled time series of the skill levels of verbalizations and gestures. The analysis focused on (1) the temporal relation between gestures and speech, (2) the relative strength and direction of the interaction between gestures and speech, (3) the relative strength and direction between gestures and speech for different levels of understanding, and (4) relations between CRQA measures and other child characteristics. The results show that older and younger children differ in the (temporal) asymmetry in the gestures speech interaction. For younger children, the balance leans more toward gestures leading speech in time, while the balance leans more toward speech leading gestures for older children. Secondly, at the group level, speech attracts gestures in a more dynamically stable fashion than vice versa, and this asymmetry in gestures and speech extends to lower and higher understanding levels. Yet, for older children, the mutual coupling between gestures and speech is more dynamically stable regarding the higher understanding levels. Gestures and speech are more synchronized in time as children are older. A higher score on schools' language tests is related to speech attracting gestures more rigidly and more asymmetry between gestures and speech, only for the less difficult understanding levels. A higher score on math or past science tasks is related to less asymmetry between gestures and speech. The picture that emerges from our analyses suggests that the relation between gestures, speech and cognition is more complex than previously thought. We suggest that temporal differences and asymmetry in influence between gestures and speech arise from simultaneous coordination of synergies.
+C1 [De Jonge-Hoekstra, Lisette; Van Geert, Paul; Cox, Ralf F. A.] Univ Groningen, Dept Dev Psychol Behav & Social Sci, Groningen, Netherlands.
+   [Van der Steen, Steffie] Univ Groningen, Dept Special Needs Educ & Youth Care Behav & Soci, Groningen, Netherlands.
+C3 University of Groningen; University of Groningen
+RP De Jonge-Hoekstra, L (corresponding author), Univ Groningen, Dept Dev Psychol Behav & Social Sci, Groningen, Netherlands.; Van der Steen, S (corresponding author), Univ Groningen, Dept Special Needs Educ & Youth Care Behav & Soci, Groningen, Netherlands.
+EM lisette.hoekstra@rug.nl; s.van.der.steen@rug.nl
+RI Cox, Ralf/LDF-6659-2024
+OI Cox, Ralf/0000-0002-2992-5352; Van Der Steen,
+   Steffie/0000-0002-7827-4525; de Jonge-Hoekstra,
+   Lisette/0000-0002-2907-4316
+FU program "Platform Betatcchniek"; Dutch ministry of Education, Culture
+   and Science (Ministerie van Onderwijs, Cultuur en Wetenschap)
+FX Part of this study was funded by the program "Platform Betatcchniek,"
+   supported by the Dutch ministry of Education, Culture and Science
+   (Ministerie van Onderwijs, Cultuur en Wetenschap).
+CR Abney DH, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.00771
+   Alibali MW, 2012, J LEARN SCI, V21, P247, DOI 10.1080/10508406.2011.611446
+   ALIBALI MW, 1993, PROCEEDINGS OF THE FIFTEENTH ANNUAL CONFERENCE OF THE COGNITIVE SCIENCE SOCIETY, P203
+   Anastas JR, 2011, PHYSICA A, V390, P1539, DOI 10.1016/j.physa.2010.11.038
+   Anderson ML, 2012, TOP COGN SCI, V4, P717, DOI 10.1111/j.1756-8765.2012.01211.x
+   [Anonymous], 2006, MEDIACODER SIMPLE AP
+   [Anonymous], 2012, Current Topics in Childrens Learning and Cognition, DOI DOI 10.5772/53935
+   [Anonymous], 1988, STAT POWER ANAL BEHA
+   Assmann B, 2007, INFANT BEHAV DEV, V30, P568, DOI 10.1016/j.infbeh.2007.04.004
+   Beilock SL, 2010, PSYCHOL SCI, V21, P1605, DOI 10.1177/0956797610385353
+   Boncoddo R, 2010, DEVELOPMENTAL SCI, V13, P370, DOI 10.1111/j.1467-7687.2009.00905.x
+   Brazelton T.B., 1974, The effects of the infant on its caregiver
+   Broaders SC, 2007, J EXP PSYCHOL GEN, V136, P539, DOI 10.1037/0096-3445.136.4.539
+   Carey S., 1994, Mapping the mind: Domain specific in cognition and culture, P169, DOI DOI 10.1017/CBO9780511752902.008
+   CHURCH RB, 1986, COGNITION, V23, P43
+   COHN JF, 1988, DEV PSYCHOL, V24, P386, DOI 10.1037/0012-1649.24.3.386
+   Cook M., 1952, ORIGINS INTELLIGENCE, P418
+   Cook SW, 2006, J COGN DEV, V7, P211, DOI 10.1207/s15327647jcd0702_4
+   Cook SW, 2013, CHILD DEV, V84, P1863, DOI 10.1111/cdev.12097
+   Cook SW, 2012, LANG COGNITIVE PROC, V27, P594, DOI 10.1080/01690965.2011.567074
+   Cox R. F. A., 2016, P MATH STAT REC PLOT
+   Cox RFA, 2013, ECOL PSYCHOL, V25, P304, DOI 10.1080/10407413.2013.810095
+   Crowder E.M., 1993, Pragmatics and Cognition, V1, P341, DOI DOI 10.1075/PC.1.2.06CRO
+   Dale R, 2006, LANG LEARN, V56, P391, DOI 10.1111/j.1467-9922.2006.00372.x
+   de Graag JA, 2012, INFANT BEHAV DEV, V35, P252, DOI 10.1016/j.infbeh.2011.12.006
+   Den Hartigh RJR, 2015, MOTOR CONTROL, V19, P355, DOI [10.1123/mc.2014-0071, 10.1123/mc.2014-0039]
+   Dugard P., 2001, SINGLE CASE SMALL N, P304
+   Ehrlich SB, 2006, DEV PSYCHOL, V42, P1259, DOI 10.1037/0012-1649.42.6.1259
+   Fischer K. W., 2006, HDB CHILD PSYCHOL, P86
+   FISCHER KW, 1980, PSYCHOL REV, V87, P477, DOI 10.1037/0033-295X.87.6.477
+   Flynn E, 2007, INFANT CHILD DEV, V16, P1, DOI 10.1002/icd.503
+   Galantucci B, 2006, PSYCHON B REV, V13, P361, DOI 10.3758/BF03193857
+   Garber P, 2002, COGNITIVE SCI, V26, P817
+   Gelman R., 2004, COGNITIVE DEV STEVEN, DOI [10.1002/0471214426.pas0212, DOI 10.1002/0471214426.PAS0212]
+   GershkoffStowe L, 1997, COGNITIVE PSYCHOL, V34, P37, DOI 10.1006/cogp.1997.0664
+   Goldin-Meadow S, 2001, PSYCHOL SCI, V12, P516, DOI 10.1111/1467-9280.00395
+   Goldin-Meadow S, 1998, New Dir Child Dev, P29
+   Goldin-Meadow S., 2003, HEARING GESTURE OUR, P304
+   Goldin-Meadow S, 2012, DEVELOPMENTAL SCI, V15, P876, DOI 10.1111/j.1467-7687.2012.01185.x
+   Goldin-Meadow S, 2009, PSYCHOL SCI, V20, P267, DOI 10.1111/j.1467-9280.2009.02297.x
+   GOLDINMEADOW S, 1993, PSYCHOL REV, V100, P279, DOI 10.1037/0033-295X.100.2.279
+   GOLDINMEADOW S, 1992, COGNITION INSTRUCT, V9, P201, DOI 10.1207/s1532690xci0903_2
+   Granott N., 2002, MICRODEVELOPMENT TRA, P25
+   HAKEN H, 1985, BIOL CYBERN, V51, P347, DOI 10.1007/BF00336922
+   Haken H., 1983, Synergetics, an Introduction: Non equilibrium Phase Transitions and Self- Organization in Physics, Chemistry, and Biology, V3rd
+   Hoekstra L., 2012, THESIS U GRONINGEN G
+   Hostetter AB, 2010, J MEM LANG, V63, P245, DOI 10.1016/j.jml.2010.04.003
+   Iverson J.M., 1999, J CONSCIOUSNESS STUD, V6, P19
+   Iverson JM, 2005, PSYCHOL SCI, V16, P367, DOI 10.1111/j.0956-7976.2005.01542.x
+   Jacoby WG, 2000, ELECT STUD, V19, P577, DOI 10.1016/S0261-3794(99)00028-1
+   Jaffe J, 2001, MONOGR SOC RES CHILD, V66, P1, DOI 10.1111/1540-5834.00137
+   Kelso J.A. Scott., 1995, DYNAMIC PATTERNS SEL
+   Kugler P.N., 1987, INFORM NATURAL LAW S
+   LESTER BM, 1985, CHILD DEV, V56, P15, DOI 10.1111/j.1467-8624.1985.tb00081.x
+   Lichtwarck-Aschoff A, 2012, NONLIN DYNAM PSYCHOL, V16, P353
+   Loehr Daniel., 2007, GESTURE, V7, P179, DOI [DOI 10.1075/GEST.7.2.04LOE, 10.1075/GEST.7.2.04LOE]
+   Louwerse MM, 2012, COGNITIVE SCI, V36, P1404, DOI 10.1111/j.1551-6709.2012.01269.x
+   Marwan N., 2014, RECURRENCE QUANTIFIC, P41
+   Marwan N, 2007, PHYS REP, V438, P237, DOI 10.1016/j.physrep.2006.11.001
+   McNeill D., 1992, Hand and Mind
+   Ninness C., 2002, BEHAV SOC ISSUES, V12, P53, DOI DOI 10.5210/BSI.V12I1.79
+   Novack MA, 2014, PSYCHOL SCI, V25, P903, DOI 10.1177/0956797613518351
+   Parziale J., 2002, MICRODEVELOPMENT TRA, P368
+   PERRY M, 1992, COGNITIVE DEV, V7, P109, DOI 10.1016/0885-2014(92)90007-E
+   PERRY M, 1988, COGNITIVE DEV, V3, P359, DOI 10.1016/0885-2014(88)90021-4
+   Pine KJ, 2007, LANG COGNITIVE PROC, V22, P234, DOI 10.1080/01690960600630881
+   REED ES, 1982, J MOTOR BEHAV, V14, P98
+   Reuzel E, 2014, NONLIN DYNAM PSYCHOL, V18, P371
+   Reuzel E, 2013, J NONVERBAL BEHAV, V37, P281, DOI 10.1007/s10919-013-0158-9
+   Richardson DC, 2007, PSYCHOL SCI, V18, P407, DOI 10.1111/j.1467-9280.2007.01914.x
+   Richardson DC, 2005, COGNITIVE SCI, V29, P1045, DOI 10.1207/s15516709cog0000_29
+   Richardson MJ, 2007, BIOL CYBERN, V96, P59, DOI 10.1007/s00422-006-0104-6
+   Schwartz M. S., 2004, COGNITIVE DEV CHANGE, P28
+   Shanahan LE, 2013, LITERACY, V47, P157, DOI 10.1111/lit.12002
+   Shockley K, 2003, J EXP PSYCHOL HUMAN, V29, P326, DOI 10.1037/0096-1523.29.2.326
+   Shockley K, 2002, PHYS LETT A, V305, P59, DOI 10.1016/S0375-9601(02)01411-1
+   Siegler R. S., 2006, HDB CHILD PSYCHOL, P46
+   Siegler RS, 2007, DEVELOPMENTAL SCI, V10, P104, DOI 10.1111/j.1467-7687.2007.00571.x
+   SIEGLER RS, 1989, ANNU REV PSYCHOL, V40, P353, DOI 10.1146/annurev.ps.40.020189.002033
+   Simith LB, 2010, J CHILD LANG, V37, P263, DOI 10.1017/S0305000909990535
+   Smith LB, 2003, TRENDS COGN SCI, V7, P343, DOI 10.1016/S1364-6613(03)00156-6
+   Stephen DG, 2009, MEM COGNITION, V37, P1132, DOI 10.3758/MC.37.8.1132
+   Stephen DG, 2009, J EXP PSYCHOL HUMAN, V35, P1811, DOI 10.1037/a0014510
+   Sternberg R. J., 1984, MECH COGNITIVE DEV, P218
+   Thelen E., 2002, MICRODEVELOPMENT TRA, P20
+   Thelen E., 1998, Handbook of child psychology: Vol. 1: Theoretical models of human development, V1, P563, DOI [DOI 10.1002/9780470147658.CHPSY0106, 10.1002/9780470147658.chpsy0106]
+   Thelen E, 2000, INFANCY, V1, P3, DOI 10.1207/S15327078IN0101_02
+   Trudeau JJ, 2007, PSYCHON B REV, V14, P994, DOI 10.3758/BF03194134
+   Turvey MT, 2007, HUM MOVEMENT SCI, V26, P657, DOI 10.1016/j.humov.2007.04.002
+   Van der Steen S., 2014, THESIS U GRONINGEN G
+   Van der Steen S, 2014, LEARN INDIVID DIFFER, V30, P84, DOI 10.1016/j.lindif.2013.12.004
+   van Geert P, 2005, DEV REV, V25, P408, DOI 10.1016/j.dr.2005.10.003
+   Van Geert P, 2003, HANDBOOK OF DEVELOPMENTAL PSYCHOLOGY, P640
+   van Geert P, 2002, INFANT BEHAV DEV, V25, P340, DOI 10.1016/S0163-6383(02)00140-6
+   van Geert P, 1998, PSYCHOL REV, V105, P634, DOI 10.1037/0033-295X.105.4.634-677
+   Van Geert P., 2008, CHAOS COMPLEXITY PSY, P39
+   Van Geert P. L. C., 2009, NEW GRAND THEORY DEV, P22
+   van Geert P, 2011, CHILD DEV PERSPECT, V5, P273, DOI 10.1111/j.1750-8606.2011.00197.x
+   Van Orden GC, 2005, J EXP PSYCHOL GEN, V134, P117, DOI 10.1037/0096-3445.134.1.117
+   Van Orden GC, 2003, J EXP PSYCHOL GEN, V132, P331, DOI 10.1037/0096-3445.132.3.331
+   Vygotsky L. S., 1994, VYGOTSKY READER, P15
+   Webber Jr. C. L., 2005, TUTORIALS CONT NONLI, P68
+   Weiss EJ, 2004, J NEUROPHYSIOL, V92, P523, DOI 10.1152/jn.01265.2003
+   Wijnants ML, 2012, FRONT PHYSIOL, V3, DOI 10.3389/fphys.2012.00116
+   Wijnants ML, 2012, ANN DYSLEXIA, V62, P100, DOI 10.1007/s11881-012-0067-3
+   Wijnants ML, 2009, NONLIN DYNAM PSYCHOL, V13, P79
+   Yan Z, 2002, HUM DEV, V45, P141, DOI 10.1159/000057070
+   Zbilut JP, 1998, PHYS LETT A, V246, P122, DOI 10.1016/S0375-9601(98)00457-5
+NR 108
+TC 19
+Z9 21
+U1 0
+U2 19
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA AVENUE DU TRIBUNAL FEDERAL 34, LAUSANNE, CH-1015, SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD MAR 31
+PY 2016
+VL 7
+AR 473
+DI 10.3389/fpsyg.2016.00473
+PG 19
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA DI1PO
+UT WOS:000373268200001
+OA Green Submitted, Green Published, gold
+DA 2026-11-10
+ER
+
+PT J
+AU Attardo, S
+AF Attardo, Salvatore
+TI Context as Relevance-Driven Abduction and Charitable Satisficing
+SO FRONTIERS IN PSYCHOLOGY
+LA English
+DT Article
+DE context; linguistics; pragmatics; cooperative principle; principle of
+   charity; relevance; abduction; satisficing
+AB It has been widely assumed that the full meaning of a linguistic expression can be grasped only within a situation, the context of the utterance. There is even agreement that certain factors within the situation are particularly significant, including gestures and facial expressions of the participants, their social roles, the setting of the exchange, the objects surrounding the participants, the linguistic, cultural and educational backgrounds of the participants, their beliefs, including those concerning the situation, the social procedures and conventions that regulate the situation. Finally, there is some agreement that context is dynamic, reflexive (the speakers are mutually aware of their beliefs), not limited to linguistics actions, and last but not least, a psychological construct. This definition of context is not (very) controversial, but it leaves out two major problems, which will be addressed in this paper: how is context arrived at? And, since a perfectly natural interpretation of the above definition could be that the context of each utterance is the entire universe, how is the relevant context delimited? Four related concepts will provide the answer to both questions: abductive reasoning, driven by relevance and cooperation, and bounded rationality and the principle of charity. Simply put, context is derived abductively by the speakers assuming that for the speakers to behave the way they behave and do so rationally, a given context must be available to them. The context is bounded by the simple requirement that speakers not try to optimize their interpretation/calculation, but rather satisfice, i.e., find the first acceptable solution and by the need to follow the principle of charity, which forces intersubjective agreement. Thus, abductive reasoning and bounded rationality will be shown to be sufficient to calculate the relevant context of utterances (or other rationality-driven interactions) and to effectively delimit the potentially infinite search space that must be explored to do so.
+C1 [Attardo, Salvatore] Texas A&M Univ, Coll Humanities Social Sci & Arts, Commerce, TX USA.
+C3 Texas A&M University System
+RP Attardo, S (corresponding author), Texas A&M Univ, Coll Humanities Social Sci & Arts, Commerce, TX USA.
+EM salvatore.attardo@tamuc.edu
+CR Assimakopoulos S., 2006, ZASPIL ZAS PAPERS LI, V44, P1
+   Attardo S, 2005, P ANN M COGN SCI SOC, V27, P169
+   ATTARDO S, 2003, INT J PRAGMATICS, V14, P3
+   Bloomfield Leonard., 1984, Language
+   Brogaard BO, 1999, T C S PEIRCE SOC, V35, P129
+   Catford J.C., 1950, ENGLISH LANGUAGE TEA, V5, P7
+   Chomsky N., 1965, Aspects of the Theory of Syntax, DOI DOI 10.21236/AD0616323
+   Clark HH., 1996, USING LANGUAGES
+   Davidson D., 1986, PHILOS GROUNDS RATIO, P157
+   Davidson D, 1980, ESSAYS ACTIONS EVENT
+   Davidson Donald., 2001, Subjective, Intersubjective, Objective
+   Davidson Donald., 1985, Inquiries into Truth and Interpretation
+   Duranti A., 1992, RETHINKING CONTEXT L
+   EVNINE S, 1991, D DAVIDSON
+   Fetzer A., 2004, RECONTEXTUALIZING
+   Firth J. R., 1956, MAN CULTURE EVALUATI, P93
+   Firth John R., 1957, Papers in Linguistics, 1934-1951
+   Firth R., 1956, MAN CULTURE EVALUATI, P1
+   GivON T., 2005, Contexts as Other Minds. The Pragmatics of Sociality, Cognition and Communication
+   GOODENOUGH WH, 1956, LANGUAGE, V32, P195, DOI 10.2307/410665
+   Grandy Richard., 1973, The Journal of Philosophy, V70, P439, DOI [DOI 10.2307/2025108, 10.2307/2025108]
+   Grice H.Paul., 1987, Studies in the Way of Words
+   HALLIDAY MA, 1971, EDUC REV, V23, P165, DOI 10.1080/0013191710230302
+   Harris R., 1993, THE LINGUISTICS WARS
+   Hoffmann Michael., 1999, Foundations of Science, V4-3, P271, DOI [DOI 10.1023/A:1009675824079, 10.1023/A:1009675824079]
+   Hymes D., 1972, Sociolinguistics
+   Jackman Henry., 2003, Journal of Philosophical Research, V28, P143, DOI [DOI 10.5840/JPR_2003_20, 10.5840/jpr_2003_20, DOI 10.5840/JPR/EMPH200320]
+   Kapitan Tomis., 1997, Studies in the Logic of Charles Sanders Peirce, P477
+   KATZ JJ, 1963, LANGUAGE, V39, P170, DOI 10.2307/411200
+   Knobloch C., 1991, UNTERSUCHUNGEN GRUND, P11
+   Lakoff George., 1971, Semantics: An interdisciplinary reader in philosophy, linguistics, and psychology, P329
+   Langendoen D. T., 1998, MIT ENCY COGNITIVE S, P90
+   Lukes Steven., 1982, Rationality and Relativism, P261
+   Malinowski B., 1923, MEANING MEANING STUD
+   Malinowski Bronislaw, 1935, CORAL GARDENS THEIR, V2
+   MCCAWLEY JD, 1976, NEUEREN SPRACHEN, V75, P151
+   McGinn C., 1999, Knowledge and Reality
+   Mey JacobL., 2001, Pragmatics: An Introduction, V2
+   Nerlich Brigitte., 1996, LANGUAGE ACTION CONT
+   Ochs E., 1979, Developmental pragmatics, P1
+   PEIRCE CS, 1960, COLLECTED PAPERS, V8
+   Quine, 1960, WORD OBJECT
+   Schegloff E.A., 1992, Rethinking context: Language as an interactive phenomenon, P191
+   Schegloff EA, 1997, DISCOURSE SOC, V8, P165, DOI 10.1177/0957926597008002002
+   Senft G., 2007, LODZ PAPERS PRAGMATI, V3, P79, DOI [10.2478/v10016-007-0006-7, DOI 10.2478/V10016-007-0006-7]
+   Simon HerbertA., 1983, Reason in Human Affairs
+   Sperber D., 1986, RELEVANCE COMMUNICAT
+   Stalnaker RobertC., 2014, Context
+   Stroll Avrum., 1994, MOORE WITTGENSTEIN C
+   WEGENER P, 1885, UNTERSUCHUNGEN GRUND
+   WILSON NL, 1959, REV METAPHYS, V12, P521
+   WIMMER H, 1983, COGNITION, V13, P103, DOI 10.1016/0010-0277(83)90004-5
+   Wittgenstein Ludwig., 1967, ZETTEL
+NR 53
+TC 2
+Z9 3
+U1 0
+U2 8
+PU FRONTIERS MEDIA SA
+PI LAUSANNE
+PA PO BOX 110, EPFL INNOVATION PARK, BUILDING I, LAUSANNE, 1015,
+   SWITZERLAND
+SN 1664-1078
+J9 FRONT PSYCHOL
+JI Front. Psychol.
+PD MAR 8
+PY 2016
+VL 7
+AR 305
+DI 10.3389/fpsyg.2016.00305
+PG 12
+WC Psychology, Multidisciplinary
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA DF5NB
+UT WOS:000371397700001
+OA Green Submitted, Green Published, gold
+DA 2026-11-10
+ER
+
+PT J
+AU Appler, K
+AF Appler, Keith
+TI The Future and the Commodity: Walter Benjamin and Eric Overmyer's On
+   the Verge
+SO MODERN DRAMA
+LA English
+DT Article
+DE Walter Benjamin; Frankfurt School; future; imagination; commodity;
+   dialectical image
+AB Influenced by Frankfurt School thought, Eric Overmyer prefers Walter Benjamin's hope for the future to pessimism like Theodor Adorno's about capitalism's control of the imagination. In Overmyer's 1985 play, On the Verge or The Geography of Yearning, hope is already mixed with despair - as it is in Benjamin's thought - because the things of this world can no longer embody Paradise; they may, however, gesture toward a lost whole which may yet be regained. As "commodities," these things (the play's objects, bodies, and words) gesture toward the human relationships elided in capitalist meanings, enlivening hope that utopia may yet be achieved. For Benjamin, apprehending utopia in the commodity becomes possible in the age of mechanical reproduction, with its accompanying "mass perspective" less in thrall to the cults of the past. It is a perspective the play's women share with their audience, liberating an imagination that is always directed toward the future. But in addition to the provocation to the imagination offered by the commodity, the play effects and stages what Benjamin calls the "dialectical image": the audience confronts these figures from the past looking forward toward them. It also registers the trope of the photograph, which brings the past forward in time. Benjamin thinks that looking toward both the future and the past renders the spectator a historical subject, one who apprehends the recurrent imperative - in the face of catastrophic failure - to regain Paradise. In On the Verge, as in Benjamin's thought, the commodity becomes the ambivalent basis of a political poetics.
+C1 [Appler, Keith] Univ Macau, Macau, Peoples R China.
+C3 University of Macau
+RP Appler, K (corresponding author), Univ Macau, Macau, Peoples R China.
+CR Adorno Theodore., 1991, NOTES LIT 3, P109
+   [Anonymous], 1990, NEW YORK TIMES
+   [Anonymous], 1987, GREAT DIVIDE MODERNI
+   Benjamin W., 2007, Reflections: Essays, Aphorisms, Autobiographical Writings
+   Benjamin W., 1992, ILLUMINATIONS, P245
+   Benjamin W., 1996, SELECTED WRITINGS VO, P280
+   Benjamin W., 2002, The Arcades Project
+   Benjamin Walter., 1977, ORIGIN GERMAN TRAGIC
+   Benjamin Walter, REFLECTIONS, P239
+   Benjamin Walter., 1992, ILLUMINATIONS
+   Benjamin Walter, REFLECTIONS, P314
+   Benjamin Walter, ILLUMINATIONS, P211
+   BENNETTS Leslie, 1987, NY TIMES
+   Bennetts Leslie, 2015, NY TIMES
+   Chaudhuri Uma., 1997, Staging Place: the geography of modern drama
+   Comay Rebecca, BENJAMIN AMBIGUITIES, P134
+   Diamond Elin., 1997, Unmaking Mimesis, Essays on Feminism and Theater
+   Eagleton Terry., 1981, W BENJAMIN REVOLUTIO
+   Ferris David S., INTRODUCTION, P1
+   Ferris DavidS., 2005, Walter Benjamin and History, P19
+   Ferris DavidS., 2004, CAMBRIDGE COMPANION
+   GROSSMAN J, 1992, GER QUART, V65, P414, DOI 10.2307/407599
+   Gussow Mel, 1986, NY TIMES, pC23
+   Gussow Mel, 2014, NY TIMES
+   Gussow Mel, 1985, NY TIMES, P61
+   Holden Stephen, 2014, NY TIMES
+   Holden Stephen, 1987, NY TIMES
+   Kushner T., 1993, ANGELS IN AM
+   Marx K., 1978, The Marx-Engels Reader, V2nd, P294
+   Moses Stephane, 1995, JEWISH WRITERS GERMA, P139
+   Nagele Rainer., 1991, Theater, Theory, Speculation: Walter Benjamin and Scenes of Modernity
+   Olsen MM, 2012, STUD INT PERFORM, P176
+   Overmyer Eric, COLLECTED, P54
+   Overmyer Eric, COLLECTED, P1
+   Overmyer Eric, 1993, COLLECTED PLAYS
+   Pensky Max, METHOD TIME BENJAMIN, P177
+   Purdum Todd, 2003, NEW YORK TIMES  0207
+   Savran David., 1997, APPROACHING MILLENIU, P13
+   Simon David., 2010, Treme
+   Staikou E, 2009, PARALLAX, V15, P97, DOI 10.1080/13534640902793125
+   Wheatland Thomas., 2009, FRANKFURT SCH EXILE
+NR 41
+TC 0
+Z9 0
+U1 0
+U2 3
+PU UNIV TORONTO PRESS INC
+PI TORONTO
+PA JOURNALS DIVISION, 5201 DUFFERIN ST, DOWNSVIEW, TORONTO, ON M3H 5T8,
+   CANADA
+SN 0026-7694
+EI 1712-5286
+J9 MOD DRAMA
+JI Mod. Drama
+PD SPR
+PY 2016
+VL 59
+IS 1
+BP 95
+EP 114
+DI 10.3138/md.0621R
+PG 20
+WC Theater
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Theater
+GA DF2MK
+UT WOS:000371177300005
+DA 2026-11-10
+ER
+
+PT J
+AU Scannone, JC
+AF Carlos Scannone, Juan
+TI Pope Francis and the Theology of the People
+SO THEOLOGICAL STUDIES
+LA English
+DT Article
+DE Pope Francis; popular piety; preferential option for the poor; teologia
+   del pueblo; theology of liberation
+AB The Argentine theology of the people turns to the religion of the faithful people of God as a key source for theological reflection. The theology of the people was developed in the church of Argentina in conversation with diverse strands of Latin American theology of liberation as well as local political circumstances and movements. The influence of the Argentine school on Pope Francis is especially evident in his Apostolic Exhortation Evangelii gaudium. Moreover, the theology of the people also provides an elucidating point of departure for interpreting the gestures and tonalities of Pope Francis's ongoing call for a Church that is poor and for the poor.
+C1 [Carlos Scannone, Juan] Univ Salvador, Area San Miguel, Faculties Philosophy & Theol, Buenos Aires, DF, Argentina.
+RP Scannone, JC (corresponding author), Univ Salvador, Area San Miguel, Faculties Philosophy & Theol, Buenos Aires, DF, Argentina.
+EM jcscannone@hotmail.com
+CR America Latina, 1994, MET TEOL AM LAT, P19
+   [Anonymous], 1986, CARTA PAPA JAO PAUL
+   [Anonymous], 1973, CRISTIANA CAMBIO SOC, P247
+   [Anonymous], 1976, RELIG POPULAR, P119
+   [Anonymous], 1990, EVANGELIZACION CULTU
+   [Anonymous], 1994, SEDOC, V125, P50
+   [Anonymous], 1982, STROMATA, V48, P3
+   Azcuy Virginia R., 2008, NUEVA EVANGELIZACION
+   Azcuy Virginia R., 2006, ESCRITOS TEOLOGICOS
+   Azcuy Virginia R., 2007, CONFERENCIA PUEBLA N, V2
+   Azcuy Virginia R., 2011, PUEBLO Y CULTURA
+   Azcuy VR, 2006, Escritos teologico- pastorales de Lucio Gera, VI, P867
+   Barba Enrique, 1984, CORRES ROSAS QUIROGA, P94
+   Bergoglio Jorge Mario, 1985, STROMATA, V61, P161
+   BERGOGLIO SJ J. M, 1982, MEDITACIONES RELIG
+   Bianchi Enrique Ciro., 2012, Pobres en este mundo, ricos en la fe (Sant 2,5): la fe de los pobres de America Latina segun Rafael Tello
+   Boasso Fernando., 1974, QUE PASTORAL POPULAR
+   Congregation for the Doctrine of the Faith (CDF), 1984, LIB NUNT, V10
+   Craughwell Thomas J., 2013, POPE END EARTH
+   De Schrijver Georg, 1998, LIBERATION THEOLOGEI
+   FARRELL G., 1999, ARGENTINA ALTERNATIV
+   Fernandez Victor M., 2013, MISION CONTINENTAL A, P287
+   Gonzalez Marcelo, 2010, REFLEXION TEOLOGICA
+   Guardini Romano, 1955, GEGENSATZ VERSUCHE
+   GUTIERREZ G, 1996, FUTURO REFLEXION TEO, P97
+   Gutierrez Gustavo, 1988, TEOL PUEBL, P372
+   Libanio Joao Batista, TEOLOGIA LIBERTACAO, P258
+   Marion, 1993, B LIT ECCLESIATIQUE, V94, P189
+   Metalli Alver, 2013, PAPA FILOSOFIO
+   Methol Ferre Alberto., 1982, INCONTRI, V4, P4
+   Neufeld Karl, 1983, PROBLEMI PROSPETTIVE
+   Oliveros Roberto, 1977, LIBERACION TEOLOGICA
+   Politi Sebastian, 1992, TEOLOGIA PUEBLO PROP
+   Quarracino A., 1984, LOSSERVATORE ROMANO, V819, P567
+   RAHNER K, 1977, BEFREIENDE THEOLOGIE
+   RAHNER K., 1979, VOLKSRELIGION RELIG
+   RICOEUR Paul, 1986, TEXTE LACTION, V2, P183
+   Scannone Juan Carlos, 2012, ACTUALIDAD VIGENCIA, P203
+   SEGUNDO J. L., 1974, LIBERACION TEOLOGIA, P264
+   Seibold J., 2006, MISTICA POPULAR
+   Trigo Pedro, 1993, CAMBIO SOCIAL PENSAM
+   Welte, 1980, LICHT NICHTS MOGLICH, P54
+NR 42
+TC 39
+Z9 54
+U1 0
+U2 14
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0040-5639
+EI 2169-1304
+J9 THEOL STUD
+JI Theol. Stud.
+PD MAR
+PY 2016
+VL 77
+IS 1
+BP 118
+EP 135
+DI 10.1177/0040563915621141
+PG 18
+WC Religion
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Religion
+GA DE9MA
+UT WOS:000370960400007
+DA 2026-11-10
+ER
+
+PT J
+AU Plummer, JD
+   Bower, CA
+   Liben, LS
+AF Plummer, Julia D.
+   Bower, Corinne A.
+   Liben, Lynn S.
+TI The role of perspective taking in how children connect reference frames
+   when explaining astronomical phenomena
+SO INTERNATIONAL JOURNAL OF SCIENCE EDUCATION
+LA English
+DT Article
+DE children; embodied cognition; gestures; astronomy; Spatial thinking;
+   perspective taking
+ID GESTURE; VISUALIZATION; MODELS; PHASES; SPACE; MOON
+AB This study investigates the role of perspective-taking skills in how children explain spatially complex astronomical phenomena. Explaining many astronomical phenomena, especially those studied in elementary and middle school, requires shifting between an Earth-based description of the phenomena and a space-based reference frame. We studied 7- to 9-year-old children (N = 15) to (a) develop a method for capturing how children make connections between reference frames and to (b) explore connections between perspective-taking skill and the nature of children's explanations. Children's explanations for the apparent motion of the Sun and stars and for seasonal changes in constellations were coded for accuracy of explanation, connection between frames of reference, and use of gesture. Children with higher spatial perspective-taking skills made more explicit connections between reference frames and used certain gesture-types more frequently, although this pattern was evident for only some phenomena. Findings suggest that children - particularly those with lower perspective-taking skills - may need additional support in learning to explicitly connect reference frames in astronomy. Understanding spatial thinking among children who successfully made explicit connections between reference frames in their explanations could be a starting point for future instruction in this domain.
+C1 [Plummer, Julia D.] Penn State Univ, Dept Curriculum & Instruct, University Pk, PA 16802 USA.
+   [Bower, Corinne A.; Liben, Lynn S.] Penn State Univ, Dept Psychol, University Pk, PA 16802 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Pennsylvania State University -
+   University Park; Pennsylvania Commonwealth System of Higher Education
+   (PCSHE); Pennsylvania State University; Pennsylvania State University -
+   University Park
+RP Plummer, JD (corresponding author), Penn State Univ, Dept Curriculum & Instruct, University Pk, PA 16802 USA.
+EM jdp17@psu.edu
+RI Bower, Corinne/GLV-5349-2022
+OI Bower, Corinne/0000-0001-7375-2842; Plummer, Julia/0000-0003-4144-7864
+CR Albanese A., 1997, Science Education, V6, P573, DOI DOI 10.1023/A:1008697908361
+   Alibali MW, 2012, J LEARN SCI, V21, P247, DOI 10.1080/10508406.2011.611446
+   [Anonymous], 2012, A Framework for K-12 Science Education: Practices, Crosscutting Concepts, and Core Ideas, English
+   [Anonymous], 2006, LEARN THINK SPAT
+   Black A.A., 2005, J GEOSCIENCE ED, V53, P402, DOI [DOI 10.5408/1089-9995-53.4.402, 10.5408/1089-9995-53.4.402]
+   Crowder EM, 1996, J LEARN SCI, V5, P173, DOI 10.1207/s15327809jls0503_2
+   DRIVER R, 1983, PUPIL AS SCI
+   Ehrlich SB, 2006, DEV PSYCHOL, V42, P1259, DOI 10.1037/0012-1649.42.6.1259
+   Gibbs R., 2006, Embodiment and Cognitive Science
+   Ginsberg H.P., 1997, ENTERING CHILDS MIND
+   Göksun T, 2013, COGN PROCESS, V14, P153, DOI 10.1007/s10339-013-0549-1
+   Heyer I., 2013, Latin-American Journal of Astronomy Education, V16, P45, DOI DOI 10.37156/RELEA/2013.16.045
+   Hostetter A.B., 2007, Gesture, V7, P73, DOI [DOI 10.1075/GEST.7.1.05HOS, 10.1075/gest.7.1.05hos]
+   Howell D., 2013, Statistical methods for psychology, V8nd
+   Janelle DG, 2014, SPAT COGN COMPUT, V14, P124, DOI 10.1080/13875868.2014.888558
+   Kallery M, 2011, INT J SCI EDUC, V33, P341, DOI 10.1080/09500690903469082
+   Kastens KA, 2008, LECT NOTES ARTIF INT, V5248, P202, DOI 10.1007/978-3-540-87601-4_16
+   Kikas E, 2006, RES SCI EDUC, V36, P269, DOI 10.1007/s11165-005-9010-5
+   Kozhevnikov M, 2007, COGNITIVE SCI, V31, P549, DOI 10.1080/15326900701399897
+   LANDIS JR, 1977, BIOMETRICS, V33, P159, DOI 10.2307/2529310
+   Liben L. S., 2006, HDB CHILD PSYCHOL, V2, P197
+   Liben L. S., 2012, PHOTOGRAPHIC P UNPUB
+   LIBEN LS, 1993, DEV PSYCHOL, V29, P739, DOI 10.1037/0012-1649.29.4.739
+   Liben LS, 2011, COGNITION INSTRUCT, V29, P45, DOI 10.1080/07370008.2010.533596
+   McNeill D., 2000, LANGUAGE GESTURE, DOI [10.7208/9780226514642, DOI 10.7208/9780226514642]
+   Paas F, 2012, EDUC PSYCHOL REV, V24, P27, DOI 10.1007/s10648-011-9179-2
+   Padalkar S, 2011, INT J SCI EDUC, V33, P1703, DOI 10.1080/09500693.2010.520348
+   Palen S., 2006, Astronomy Education Review, V5, P23, DOI DOI 10.3847/AER2006002
+   Parnafes O, 2012, COGNITION INSTRUCT, V30, P359, DOI 10.1080/07370008.2012.716885
+   Piaget J., 1956, The child's conception of space, DOI [DOI 10.4324/9781315006239, 10.4324/9781315006239]
+   Ping R, 2010, COGNITIVE SCI, V34, P602, DOI 10.1111/j.1551-6709.2010.01102.x
+   Plummer JD, 2011, INT J SCI EDUC, V33, P1963, DOI 10.1080/09500693.2010.537707
+   Plummer JD, 2014, INT J SCI EDUC, V36, P1083, DOI 10.1080/09500693.2013.843211
+   Roth WM, 2000, J PRAGMATICS, V32, P1683, DOI 10.1016/S0378-2166(99)00115-0
+   Sauter M, 2012, J EXP CHILD PSYCHOL, V111, P587, DOI 10.1016/j.jecp.2011.11.009
+   Schwartz DL, 1999, COGNITIVE PSYCHOL, V38, P433, DOI 10.1006/cogp.1998.0702
+   Sorby S.A., 2000, Journal of Engineering Education, V89, P301, DOI DOI 10.1002/J.2168-9830.2000.TB00529.X
+   Stieff M, 2012, J CHEM EDUC, V89, P854, DOI 10.1021/ed200071d
+   Subramaniam K, 2009, INT J SCI EDUC, V31, P395, DOI 10.1080/09500690802595805
+   Uttal DH, 2013, PSYCHOL BULL, V139, P352, DOI 10.1037/a0028446
+   VOSNIADOU S, 1994, COGNITIVE SCI, V18, P123, DOI 10.1207/s15516709cog1801_4
+   Wilhelm J, 2009, INT J SCI EDUC, V31, P2105, DOI 10.1080/09500690802483093
+   Wilson M, 2002, PSYCHON B REV, V9, P625, DOI 10.3758/BF03196322
+NR 43
+TC 38
+Z9 53
+U1 0
+U2 21
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0950-0693
+EI 1464-5289
+J9 INT J SCI EDUC
+JI Int. J. Sci. Educ.
+PD FEB 11
+PY 2016
+VL 38
+IS 3
+BP 345
+EP 365
+DI 10.1080/09500693.2016.1140921
+PG 21
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA DG5YM
+UT WOS:000372157800001
+DA 2026-11-10
+ER
+
+PT J
+AU Aly, A
+   Tapus, A
+AF Aly, Amir
+   Tapus, Adriana
+TI Towards an intelligent system for generating an adapted verbal and
+   nonverbal combined behavior in human-robot interaction
+SO AUTONOMOUS ROBOTS
+LA English
+DT Article
+DE Personality traits; Similarity attraction; Gesture generation; Language
+   generation; Speech and gesture alignment
+ID HIDDEN MARKOV-MODELS; MANIFEST PERSONALITY; STUDENT UNCERTAINTY;
+   RECOGNITION; RESPONSES; LANGUAGE; CONSISTENCY; DIMENSIONS; PERCEPTION;
+   SIMILARITY
+AB In human-robot interaction scenarios, an intelligent robot should be able to synthesize an appropriate behavior adapted to human profile (i.e., personality). Recent research studies discussed the effect of personality traits on human verbal and nonverbal behaviors. The dynamic characteristics of the generated gestures and postures during the nonverbal communication can differ according to personality traits, which similarly can influence the verbal content of human speech. This research tries to map human verbal behavior to a corresponding verbal and nonverbal combined robot behavior based on the extraversion-introversion personality dimension. We explore the human-robot personality matching aspect and the similarity attraction principle, in addition to the different effects of the adapted combined robot behavior expressed through speech and gestures, and the adapted speech-only robot behavior, on interaction. Experiments with the humanoid NAO robot are reported.
+C1 [Aly, Amir; Tapus, Adriana] ENSTA ParisTech, Robot & Comp Vis Lab, 828 Blvd Marechaux, F-91120 Palaiseau, France.
+C3 Institut Polytechnique de Paris; ENSTA Paris
+RP Aly, A (corresponding author), ENSTA ParisTech, Robot & Comp Vis Lab, 828 Blvd Marechaux, F-91120 Palaiseau, France.
+EM amir.aly@ensta-paristech.fr; adriana.tapus@ensta-paristech.fr
+RI ; Tapus, Adriana/QJW-6554-2026
+OI Aly, Amir/0000-0001-5169-0679; 
+FU French National Research Agency (ANR) through Chaire d'Excellence
+   program (Human-Robot Interaction for Assistive Applications)
+FX This work was supported by the French National Research Agency (ANR)
+   through Chaire d'Excellence program 2009 (Human-Robot Interaction for
+   Assistive Applications). The project's website is accessible at: http://
+   www.ensta-paristech.fr/similar to tapus/HRIAA/.
+CR Aly A., 2013, 16 IEEE INT C ADV RO, P1
+   Aly A., 2012, P 14 IFAC S INF CONT
+   Aly A., 2014, THESIS ENSTA PARISTE
+   Aly A., 2012, P 7 ACM IEEE INT C H
+   Aly A., 2011, P EUR C MOB ROB ECMR
+   Aly A, 2013, ACMIEEE INT CONF HUM, P325, DOI 10.1109/HRI.2013.6483606
+   André E, 2000, EMBODIED CONVERSATIONAL AGENTS, P220
+   Anh L.Q., 2012, Proceedings of the 9th international conference on Gesture and Sign Language in Human-Computer Interaction and Embodied Communication, P228, DOI DOI 10.1007/978-3-642-34182-3
+   [Anonymous], ADV ROBOTIC SYSTEMS
+   [Anonymous], P C EMP METH NAT LAN
+   [Anonymous], EXPT RES PERSONALITY
+   [Anonymous], 2000, Language and gesture
+   [Anonymous], USER MODELS DIALOG S
+   Bailenson JN, 2005, PSYCHOL SCI, V16, P814, DOI 10.1111/j.1467-9280.2005.01619.x
+   Bargh JA, 1996, J PERS SOC PSYCHOL, V71, P230, DOI 10.1037/0022-3514.71.2.230
+   BARRICK MR, 1991, PERS PSYCHOL, V44, P1, DOI 10.1111/j.1744-6570.1991.tb00688.x
+   Beattie G, 2012, SEMIOTICA, V192, P77, DOI 10.1515/sem-2012-0067
+   BERNIERI FJ, 1988, J NONVERBAL BEHAV, V12, P120, DOI 10.1007/BF00986930
+   Bevacqua E., 2004, AISB CONVENTION MOTI
+   CAPPELLA JN, 1981, HUM COMMUN RES, V7, P117, DOI 10.1111/j.1468-2958.1981.tb00564.x
+   Cassell J, 2003, USER MODEL USER-ADAP, V13, P89, DOI 10.1023/A:1024026532471
+   Cassell J, 2001, COMP GRAPH, P477, DOI 10.1145/383259.383315
+   Cassell J, 2000, EMBODIED CONVERSATIONAL AGENTS, P29
+   Chartrand TL, 1999, J PERS SOC PSYCHOL, V76, P893, DOI 10.1037/0022-3514.76.6.893
+   COLTHEART M, 1981, Q J EXP PSYCHOL-A, V33, P497, DOI 10.1080/14640748108400805
+   Dewaele JM, 1999, LANG LEARN, V49, P509, DOI 10.1111/0023-8333.00098
+   DiCaprio, 1983, PERSONALITY THEORIES
+   Dijkstra P, 2008, EVOL PSYCHOL-US, V6, P595, DOI 10.1177/147470490800600406
+   Eriksson J, 2005, INT C REHAB ROBOT, P21
+   Eysenck H.J., 1953, The structure of human personality
+   Eysenck H.J., 1968, MANUAL EYSENCK PERSO
+   EYSENCK HJ, 1991, PERS INDIV DIFFER, V12, P773, DOI 10.1016/0191-8869(91)90144-Z
+   Fellbaum C., 1998, WORDNET
+   FININ TW, 1986, P IEEE, V74, P921, DOI 10.1109/PROC.1986.13572
+   Forbes-Riley K, 2008, LECT NOTES COMPUT SC, V5091, P60
+   Forbes-Riley K, 2007, LECT NOTES COMPUT SC, V4738, P678
+   Furnham Adrian., 1990, Handbook of Language and Social Psychology
+   Giles H., 1978, LANGUAGE SOC, P428
+   Gill A.J., 2002, P 24 ANN C COGNITIVE, P363, DOI [10.4324/9781315782379-99, DOI 10.4324/9781315782379-99]
+   Goldberg L.R., 1999, PERSONALITY PSYCHOL, V7, P7
+   GOLDBERG LR, 1990, J PERS SOC PSYCHOL, V59, P1216, DOI 10.1037/0022-3514.59.6.1216
+   Grosz B. J., 1983, Conference on Applied Natural Language Processing. Proceedings of the Conference, P39
+   Gueguen N, 2007, 100 PETITES EXPERIEN
+   Gump BB, 1997, J PERS SOC PSYCHOL, V72, P305, DOI 10.1037/0022-3514.72.2.305
+   Hall EdwardTwitchell., 1969, HIDDEN DIMENSION
+   Hartmann B., 2002, P COMP AN
+   Hassin R, 2000, J PERS SOC PSYCHOL, V78, P837, DOI 10.1037/0022-3514.78.5.837
+   Huang C., 2014, P 9 ACM IEEE HUM ROB
+   Isbister K, 2000, INT J HUM-COMPUT ST, V53, P251, DOI 10.1006/ijhc.2000.0368
+   Jensen-Campbell LA, 2003, J PERS, V71, P1059, DOI 10.1111/1467-6494.7106007
+   Jung C.G., 1976, PSYCHOL TYPES
+   Kendon A., 1980, RELATIONSHIP VERBAL, P207, DOI DOI 10.1515/9783110813098.207
+   Kopp S, 2006, LECT NOTES ARTIF INT, V4133, P205
+   Kopp S, 2008, INT J SEMANT COMPUT, V2, P115, DOI 10.1142/S1793351X08000361
+   LaFrance M., 1982, INTERACTION RHYTHMS, P279
+   Lavoie B., 1997, P 5 C APPL NAT LANG
+   Leary T., 1957, Interpersonal diagnosis of personality
+   Lee KM, 2006, J COMMUN, V56, P754, DOI 10.1111/j.1460-2466.2006.00318.x
+   Leuwerink K., 2012, P 16 TWENT STUD C IT
+   Lippa RA, 2000, J NONVERBAL BEHAV, V24, P25, DOI 10.1023/A:1006610805385
+   Lucignano L., 2013, P 15 ACM INT C MULT
+   Mairesse F, 2007, J ARTIF INTELL RES, V30, P457, DOI 10.1613/jair.2349
+   Mairesse F, 2011, COMPUT LINGUIST, V37, P455, DOI 10.1162/COLI_a_00063
+   Mancini M., 2008, Proceedings of Autonomous Agents and Multiagent Systems, P159
+   MAURER RE, 1983, J COUNS PSYCHOL, V30, P158, DOI 10.1037/0022-0167.30.2.158
+   McNeill D., 1992, Hand and Mind
+   McNeill D., 2000, LANGUAGE GESTURE, DOI [10.7208/9780226514642, DOI 10.7208/9780226514642]
+   Mehl MR, 2006, J PERS SOC PSYCHOL, V90, P862, DOI 10.1037/0022-3514.90.5.862
+   Moon Y, 1996, COMMUN RES, V23, P651, DOI 10.1177/009365096023006002
+   Morris L., 1979, EXTRAVERSIION INTROV
+   MURRAY JB, 1990, PERCEPT MOTOR SKILL, V70, P1187, DOI 10.2466/PMS.70.3.1187-1202
+   Myers-Briggs I., 1980, Gifts differing: Understanding personality type
+   Nakajima H, 2003, IEEE SYS MAN CYBERN, P2381
+   Nakajima H., 2004, J JAPANESE SOC ARTIF, V19, P184
+   Nass C, 2001, J EXP PSYCHOL-APPL, V7, P171, DOI 10.1037//1076-898X.7.3.171
+   Ng-Thow-Hing V., 2010, P IEEE RSJ INT C INT
+   Niewiadomski R, 2009, LECT NOTES ARTIF INT, V5773, P316, DOI 10.1007/978-3-642-04380-2_34
+   Pengcheng Luo, 2013, Intelligent Virtual Agents. 13th International Conference, IVA 2013. Proceedings: LNCS 8108, P229, DOI 10.1007/978-3-642-40415-3_20
+   Pennebaker JW, 1999, J PERS SOC PSYCHOL, V77, P1296, DOI 10.1037/0022-3514.77.6.1296
+   Pittam Jeffery., 1994, VOICE SOCIAL INTERAC, DOI DOI 10.4135/9781483327105
+   RABINER LR, 1989, P IEEE, V77, P257, DOI 10.1109/5.18626
+   Reeves B., 1996, MEDIA EQUATION
+   Reiter Ehud., 2000, BUILDING NATURAL LAN
+   Rezek I, 2000, IEE CONF PUBL, P54, DOI 10.1049/cp:20000317
+   Rezek I., 2000, P IEEE INT WORKSH NE
+   RIGGIO RE, 1986, J PERS SOC PSYCHOL, V50, P421, DOI 10.1037/0022-3514.50.2.421
+   Scherer K., 1979, SOCIAL MARKERS SPEEC, P147
+   Selfhout M, 2010, J PERS, V78, P509, DOI 10.1111/j.1467-6494.2010.00625.x
+   Stent Amanda., 2004, Proceedings of the 42nd annual meeting on association for computational linguistics, P79, DOI [10.3115/1218955.1218966, DOI 10.3115/1218955.1218966]
+   Sullivan H.S., 1953, INTERPERSONAL THEORY
+   Tapus A., 2008, P AAAI SPRING S EM P
+   Tapus A, 2008, INTEL SERV ROBOT, V1, P169, DOI 10.1007/s11370-008-0017-4
+   van Baaren RB, 2003, J EXP SOC PSYCHOL, V39, P393, DOI 10.1016/S0022-1031(03)00014-3
+   VINACKE WE, 1988, GENET SOC GEN PSYCH, V114, P51
+   Vogel K., 1986, APPL LINGUIST, V24, P48
+   Webb J.T., 1972, Studies in dyadic communication, P115, DOI DOI 10.1016/B978-0-08-015867-9.50010-1
+   WILLIAMS JL, 1971, CAN J BEH SCI, V3, P156, DOI 10.1037/h0082257
+   Windhouwer D., 2012, P 16 TWENT STUD C IT
+   Woods S., 2005, P 5 IEEE RAS INT C H
+   Woods S, 2007, INTERACT STUD, V8, P281, DOI 10.1075/is.8.2.06woo
+   Young Kimball., 1927, Source Book for Social Psychology
+   Zukerman I, 2001, USER MODEL USER-ADAP, V11, P129, DOI 10.1023/A:1011174108613
+NR 102
+TC 62
+Z9 73
+U1 0
+U2 81
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0929-5593
+EI 1573-7527
+J9 AUTON ROBOT
+JI Auton. Robot.
+PD FEB
+PY 2016
+VL 40
+IS 2
+BP 193
+EP 209
+DI 10.1007/s10514-015-9444-1
+PG 17
+WC Computer Science, Artificial Intelligence; Robotics
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Computer Science; Robotics
+GA DB8XZ
+UT WOS:000368801800001
+OA Green Submitted
+DA 2026-11-10
+ER
+
+PT J
+AU Park, HR
+   Lee, JM
+   Moon, HE
+   Lee, DS
+   Kim, BN
+   Kim, J
+   Kim, DG
+   Paek, SH
+AF Park, Hye Ran
+   Lee, Jae Meen
+   Moon, Hyo Eun
+   Lee, Dong Soo
+   Kim, Bung-Nyun
+   Kim, Jinhyun
+   Kim, Dong Gyu
+   Paek, Sun Ha
+TI A Short Review on the Current Understanding of Autism Spectrum Disorders
+SO EXPERIMENTAL NEUROBIOLOGY
+LA English
+DT Review
+DE Autistic Disorders; Review; Neurobiology; Amygdala
+ID DEEP BRAIN-STIMULATION; PRENATAL VIRAL-INFECTION;
+   SELF-INJURIOUS-BEHAVIOR; PREFRONTAL CORTEX; BASOLATERAL AMYGDALA; NOVO
+   MUTATIONS; STEREOTAXIC AMYGDALOTOMY; EXECUTIVE FUNCTION; RECEPTOR
+   BLOCKADE; COCAINE-SEEKING
+AB Autism spectrum disorder (ASD) is a set of neurodevelopmental disorders characterized by a deficit in social behaviors and nonverbal interactions such as reduced eye contact, facial expression, and body gestures in the first 3 years of life. It is not a single disorder, and it is broadly considered to be a multi-factorial disorder resulting from genetic and non-genetic risk factors and their interaction. Genetic studies of ASD have identified mutations that interfere with typical neurodevelopment in utero through childhood. These complexes of genes have been involved in synaptogenesis and axon motility. Recent developments in neuroimaging studies have provided many important insights into the pathological changes that occur in the brain of patients with ASD in vivo. Especially, the role of amygdala, a major component of the limbic system and the affective loop of the cortico-striatothalamo- cortical circuit, in cognition and ASD has been proved in numerous neuropathological and neuroimaging studies. Besides the amygdala, the nucleus accumbens is also considered as the key structure which is related with the social reward response in ASD. Although educational and behavioral treatments have been the mainstay of the management of ASD, pharmacological and interventional treatments have also shown some benefit in subjects with ASD. Also, there have been reports about few patients who experienced improvement after deep brain stimulation, one of the interventional treatments. The key architecture of ASD development which could be a target for treatment is still an uncharted territory. Further work is needed to broaden the horizons on the understanding of ASD.
+C1 [Park, Hye Ran; Lee, Jae Meen; Moon, Hyo Eun; Kim, Dong Gyu; Paek, Sun Ha] Seoul Natl Univ Hosp, Dept Neurosurg, Seoul 03080, South Korea.
+   [Lee, Dong Soo] Seoul Natl Univ, Coll Med, Dept Nucl Med, Seoul 03080, South Korea.
+   [Kim, Bung-Nyun] Seoul Natl Univ, Coll Med, Dept Psychiat, Div Child & Adolescent Psychiat, Seoul 03080, South Korea.
+   [Kim, Jinhyun] KIST, Ctr Funct Connect, Seoul 02792, South Korea.
+C3 Seoul National University (SNU); Seoul National University Hospital;
+   Seoul National University (SNU); Seoul National University (SNU); Korea
+   Institute of Science & Technology (KIST)
+RP Paek, SH (corresponding author), Seoul Natl Univ Hosp, Dept Neurosurg, Seoul 03080, South Korea.
+EM paeksh@snu.ac.kr
+RI Paek, Sun/J-2760-2012; Moon, HyoEun/KRO-4097-2024
+FU Korea Institute of Planning & Evaluation for Technology in Food,
+   Agriculture, Forestry, and Fisheries, Republic of Korea
+   [311011-05-3-SB020]; Korea Healthcare Technology RD Project
+   [HI11C21100200]; Ministry of Health & Welfare, Republic of Korea;
+   Technology Innovation Program [10050154]; Business Model Development for
+   Personalized Medicine Based on Integrated Genome and Clinical
+   Information; Ministry of Trade, Industry & Energy (MI, Korea); Bio &
+   Medical Technology Development Program of the NRF-Korean government,
+   MSIP [2015M3C7A1028926]
+FX This study was partly supported by the Korea Institute of Planning &
+   Evaluation for Technology in Food, Agriculture, Forestry, and Fisheries,
+   Republic of Korea (311011-05-3-SB020), by the Korea Healthcare
+   Technology R&D Project (HI11C21100200) funded by Ministry of Health &
+   Welfare, Republic of Korea, by the Technology Innovation Program
+   (10050154, Business Model Development for Personalized Medicine Based on
+   Integrated Genome and Clinical Information) funded by the Ministry of
+   Trade, Industry & Energy (MI, Korea), and by the Bio & Medical
+   Technology Development Program of the NRF funded by the Korean
+   government, MSIP (2015M3C7A1028926).
+CR Abell F, 1999, NEUROREPORT, V10, P1647, DOI 10.1097/00001756-199906030-00005
+   Adler BA, 2015, AUTISM, V19, P102, DOI 10.1177/1362361314524641
+   Adolphs R, 2005, NAT NEUROSCI, V8, P512, DOI 10.1038/nn1413
+   Adolphs R, 2005, NATURE, V433, P68, DOI 10.1038/nature03086
+   Adolphs R, 2001, J COGNITIVE NEUROSCI, V13, P232, DOI 10.1162/089892901564289
+   ADOLPHS R, 1994, NATURE, V372, P669, DOI 10.1038/372669a0
+   Adolphs R, 2010, ANN NY ACAD SCI, V1191, P42, DOI 10.1111/j.1749-6632.2010.05445.x
+   AGGLETON J P, 1992, P485
+   ALEXANDER GE, 1986, ANNU REV NEUROSCI, V9, P357, DOI 10.1146/annurev.ne.09.030186.002041
+   Alvarez JA, 2006, NEUROPSYCHOL REV, V16, P17, DOI 10.1007/s11065-006-9002-x
+   [Anonymous], 2013, Memorandum, Transitioning to the Fifth Edition of the Diagnostic and Statistical Manual of Mental Disorders
+   [Anonymous], 1980, DSM 3, DOI DOI 10.1176/APPI.BOO
+   [Anonymous], FRONT HUM NEUROSCI
+   [Anonymous], 2004, INT STAT CLASS DIS R, V2nd
+   Ashwood P, 2004, AUTOIMMUN REV, V3, P557, DOI 10.1016/j.autrev.2004.07.036
+   Asperger H, 1944, ARCH PSYCHIAT NERVEN, V117, P76, DOI 10.1007/BF01837709
+   Banerjee S, 2014, FRONT CELL NEUROSCI, V8, DOI 10.3389/fncel.2014.00058
+   Baron-Cohen S, 2011, PLOS BIOL, V9, DOI 10.1371/journal.pbio.1001081
+   Bauman M., 2005, NEUROBIOLOGY AUTISM
+   Benabid AL, 2003, CURR OPIN NEUROBIOL, V13, P696, DOI 10.1016/j.conb.2003.11.001
+   Bernier R, 2014, CELL, V158, P263, DOI 10.1016/j.cell.2014.06.017
+   Bishop SJ, 2007, TRENDS COGN SCI, V11, P307, DOI 10.1016/j.tics.2007.05.008
+   Bleuler E., 1912, Journal of nervous and mental disease publishing Company
+   Bolton PF, 1997, LANCET, V349, P392, DOI 10.1016/S0140-6736(97)80012-8
+   BROTHERS L, 1990, BEHAV BRAIN RES, V41, P199, DOI 10.1016/0166-4328(90)90108-Q
+   Butler MG, 2005, J MED GENET, V42, P318, DOI 10.1136/jmg.2004.024646
+   Casas KA, 2004, AM J MED GENET A, V130A, P331, DOI 10.1002/ajmg.a.30156
+   Chang J, 2015, NAT NEUROSCI, V18, P191, DOI 10.1038/nn.3907
+   Clifford S, 2007, J AUTISM DEV DISORD, V37, P301, DOI 10.1007/s10803-006-0160-8
+   Cohen MX, 2009, NEUROPSYCHOPHARMACOL, V34, P1649, DOI 10.1038/npp.2008.222
+   Cotney J, 2015, NAT COMMUN, V6, DOI 10.1038/ncomms7404
+   COURCHESNE E, 1993, AM J ROENTGENOL, V160, P387, DOI 10.2214/ajr.160.2.8424359
+   Courchesne E, 2011, JAMA-J AM MED ASSOC, V306, P2001, DOI 10.1001/jama.2011.1638
+   Curatolo P, 2008, HAND CLINIC, V87, P129, DOI 10.1016/S0072-9752(07)87009-6
+   Davidson PW, 2004, PEDIATRICS, V113, P1023
+   De Rubeis S, 2014, NATURE, V515, P209, DOI 10.1038/nature13772
+   Deriziotis P, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms5954
+   Durand CM, 2007, NAT GENET, V39, P25, DOI 10.1038/ng1933
+   Dykens EM, 2004, MENT RETARD DEV D R, V10, P284, DOI 10.1002/mrdd.20042
+   Ecker C, 2015, LANCET NEUROL, V14, P1121, DOI 10.1016/S1474-4422(15)00050-2
+   Elsabbagh M, 2012, AUTISM RES, V5, P160, DOI 10.1002/aur.239
+   Emery NJ, 2001, NATURE, V414, P443, DOI 10.1038/35106560
+   Ernst M, 2004, NEUROPSYCHOLOGIA, V42, P1585, DOI 10.1016/j.neuropsychologia.2004.05.011
+   Eskenazi B, 2007, ENVIRON HEALTH PERSP, V115, P792, DOI 10.1289/ehp.9828
+   Farmer C, 2013, DRUGS, V73, P303, DOI 10.1007/s40265-013-0021-7
+   Fatemi SH, 2005, SYNAPSE, V57, P91, DOI 10.1002/syn.20162
+   Fatemi SH, 2002, CELL MOL NEUROBIOL, V22, P25, DOI 10.1023/A:1015337611258
+   Felix-Ortiz AC, 2014, J NEUROSCI, V34, P586, DOI 10.1523/JNEUROSCI.4257-13.2014
+   Finger Stanley., 1994, Origins of Neuroscience: A History of Explorations in Brain Science
+   Fisch GS, 2012, AM J MED GENET C, V160C, P91, DOI 10.1002/ajmg.c.31325
+   Fombonne E., 2011, Textbook of autism spectrum disorders, P117
+   Fombonne E, 2005, RECENT DEV AUTISM RE, P1
+   Forbes EE, 2009, AM J PSYCHIAT, V166, P64, DOI 10.1176/appi.ajp.2008.07081336
+   Frith CD, 2006, NEURON, V50, P531, DOI 10.1016/j.neuron.2006.05.001
+   Fuchs RA, 2007, EUR J NEUROSCI, V26, P487, DOI 10.1111/j.1460-9568.2007.05674.x
+   Geschwind DH, 2011, TRENDS COGN SCI, V15, P409, DOI 10.1016/j.tics.2011.07.003
+   Gharani N, 2004, MOL PSYCHIATR, V9, P474, DOI 10.1038/sj.mp.4001498
+   Grabrucker S, 2014, BRAIN, V137, P137, DOI 10.1093/brain/awt303
+   Grozeva D, 2014, AM J HUM GENET, V94, P618, DOI 10.1016/j.ajhg.2014.03.006
+   Halgren C, 2012, CLIN GENET, V82, P248, DOI 10.1111/j.1399-0004.2011.01755.x
+   Hamani C, 2014, NEUROSURGERY, V75, P327, DOI 10.1227/NEU.0000000000000499
+   Hamdan FF, 2011, BIOL PSYCHIAT, V69, P898, DOI 10.1016/j.biopsych.2010.11.015
+   Haznedar MM, 2000, AM J PSYCHIAT, V157, P1994, DOI 10.1176/appi.ajp.157.12.1994
+   Heidbreder CA, 2003, NEUROSCI BIOBEHAV R, V27, P555, DOI 10.1016/j.neubiorev.2003.09.003
+   Helsmoortel C, 2014, NAT GENET, V46, P380, DOI 10.1038/ng.2899
+   Herbert MR, 2004, ANN NEUROL, V55, P530, DOI 10.1002/ana.20032
+   Herman GE, 2007, GENET MED, V9, P268, DOI 10.1097/GIM.0b013e31804d683b
+   HETZLER BE, 1981, J AUTISM DEV DISORD, V11, P317, DOI 10.1007/BF01531514
+   HOON AH, 1992, DEV MED CHILD NEUROL, V34, P252
+   Howard MA, 2000, NEUROREPORT, V11, P2931, DOI 10.1097/00001756-200009110-00020
+   Kanner L, 1943, NERV CHILD, V2, P217
+   Kemper TL, 1998, J NEUROPATH EXP NEUR, V57, P645, DOI 10.1097/00005072-199807000-00001
+   Kerbeshian J, 2001, J DEV PHYS DISABIL, V13, P199, DOI 10.1023/A:1016686802786
+   Kern JK, 2006, J TOXICOL ENV HEAL B, V9, P485, DOI 10.1080/10937400600882079
+   Kim H, 2006, PLOS BIOL, V4, P1453, DOI 10.1371/journal.pbio.0040233
+   Kim MJ, 2009, J NEUROSCI, V29, P11614, DOI 10.1523/JNEUROSCI.2335-09.2009
+   Kim YS, 2015, BIOL PSYCHIAT, V77, P66, DOI 10.1016/j.biopsych.2014.11.001
+   Kim YS, 2011, AM J PSYCHIAT, V168, P904, DOI 10.1176/appi.ajp.2011.10101532
+   Kinney DK, 2008, NEUROSCI BIOBEHAV R, V32, P1519, DOI 10.1016/j.neubiorev.2008.06.004
+   Kluver H, 1939, ARCH NEURO PSYCHIATR, V42, P979
+   Knutson B, 2001, J NEUROSCI, V21, part. no., DOI 10.1523/JNEUROSCI.21-16-j0002.2001
+   Knutson B, 2005, CURR OPIN NEUROL, V18, P411, DOI 10.1097/01.wco.0000173463.24758.f6
+   Kolevzon A, 2007, ARCH PEDIAT ADOL MED, V161, P326, DOI 10.1001/archpedi.161.4.326
+   Lai MC, 2014, LANCET, V383, P896, DOI [10.1016/S0140-6736(09)61376-3, 10.1016/S0140-6736(13)61539-1]
+   Larsson HJ, 2005, AM J EPIDEMIOL, V161, P916, DOI 10.1093/aje/kwi123
+   Libbey JE, 2005, J NEUROVIROL, V11, P1, DOI 10.1080/13550280590900553
+   London E, 2000, ENVIRON HEALTH PERSP, V108, P401, DOI 10.1289/ehp.00108s3401
+   Lozano AM, 2002, LANCET NEUROL, V1, P225, DOI 10.1016/S1474-4422(02)00101-1
+   Luczywek E, 1976, Acta Neurochir (Wien), P221
+   Madsen KM, 2002, NEW ENGL J MED, V347, P1477, DOI 10.1056/NEJMoa021134
+   Manzi B, 2008, J CHILD NEUROL, V23, P307, DOI 10.1177/0883073807308698
+   Mashhoon Y, 2010, PHARMACOL BIOCHEM BE, V96, P347, DOI 10.1016/j.pbb.2010.06.005
+   Mattila ML, 2011, J AM ACAD CHILD PSY, V50, P583, DOI 10.1016/j.jaac.2011.04.001
+   McPheeters ML, 2011, PEDIATRICS, V127, pE1312, DOI 10.1542/peds.2011-0427
+   Melke J, 2008, MOL PSYCHIATR, V13, P90, DOI 10.1038/sj.mp.4002016
+   Mempel E, 1980, Acta Neurochir Suppl (Wien), V30, P161
+   Miles JH, 2011, GENET MED, V13, P278, DOI 10.1097/GIM.0b013e3181ff67ba
+   Miyazaki K, 2005, INT J DEV NEUROSCI, V23, P287, DOI 10.1016/j.ijdevneu.2004.05.004
+   Murdoch JD, 2013, CURR OPIN GENET DEV, V23, P310, DOI 10.1016/j.gde.2013.02.003
+   NARABAYASHI H, 1966, CONFIN NEUROL, V27, P168, DOI 10.1159/000103950
+   NARABAYASHI H, 1963, ARCH NEUROL-CHICAGO, V9, P1
+   Nolte John., 2002, The Human Brain: An Introduction to Its Functional Anatomy
+   NOWELL MA, 1990, MAGN RESON IMAGING, V8, P811, DOI 10.1016/0730-725X(90)90018-W
+   O'Roak BJ, 2012, NATURE, V485, P246, DOI 10.1038/nature10989
+   Odom SL, 2010, J AUTISM DEV DISORD, V40, P425, DOI 10.1007/s10803-009-0825-1
+   Ohnishi T, 2000, BRAIN, V123, P1838, DOI 10.1093/brain/123.9.1838
+   Otsuka H, 1999, NEURORADIOLOGY, V41, P517, DOI 10.1007/s002340050795
+   Posey D J, 2001, Expert Opin Pharmacother, V2, P587, DOI 10.1517/14656566.2.4.587
+   PREUSS TM, 1995, J COGNITIVE NEUROSCI, V7, P1, DOI 10.1162/jocn.1995.7.1.1
+   Quirk GJ, 2006, CURR OPIN NEUROBIOL, V16, P723, DOI 10.1016/j.conb.2006.07.004
+   Quirk GJ, 2008, NEUROPSYCHOPHARMACOL, V33, P56, DOI 10.1038/sj.npp.1301555
+   Rapin I, 1998, ANN NEUROL, V43, P7, DOI 10.1002/ana.410430106
+   Richards C, 2012, J INTELL DISABIL RES, V56, P476, DOI 10.1111/j.1365-2788.2012.01537.x
+   Robbins TW, 2009, ANNU REV NEUROSCI, V32, P267, DOI 10.1146/annurev.neuro.051508.135535
+   Robinson EB, 2013, P NATL ACAD SCI USA, V110, P5258, DOI 10.1073/pnas.1211070110
+   ROLLS E T, 1992, P143
+   Rossignol DA, 2011, DEV MED CHILD NEUROL, V53, P783, DOI 10.1111/j.1469-8749.2011.03980.x
+   Saemundsen E, 2007, J CHILD NEUROL, V22, P1102, DOI 10.1177/0883073807306251
+   Sah P, 2003, PHYSIOL REV, V83, P803, DOI 10.1152/physrev.00002.2003
+   Sajdyk TJ, 1997, J PHARMACOL EXP THER, V283, P969
+   Sajdyk TJ, 2000, EUR J PHARMACOL, V394, P265, DOI 10.1016/S0014-2999(00)00128-X
+   Sanders SJ, 2012, NATURE, V485, P237, DOI 10.1038/nature10945
+   Schlaepfer TE, 2008, NEUROPSYCHOPHARMACOL, V33, P368, DOI 10.1038/sj.npp.1301408
+   Schmitz N, 2008, BRIT J PSYCHIAT, V192, P19, DOI 10.1192/bjp.bp.107.036921
+   Schrock LE, 2015, MOVEMENT DISORD, V30, P448, DOI 10.1002/mds.26094
+   Scott-Van Zeeland AA, 2010, AUTISM RES, V3, P53, DOI 10.1002/aur.122
+   Sinha S, 2015, NEUROSURG FOCUS, V38, DOI 10.3171/2015.3.FOCUS1548
+   Sotres-Bayon F, 2010, CURR OPIN NEUROBIOL, V20, P231, DOI 10.1016/j.conb.2010.02.005
+   Spezio ML, 2007, J NEUROSCI, V27, P3994, DOI 10.1523/JNEUROSCI.3789-06.2007
+   Stigler KA, 2011, BRAIN RES, V1380, P146, DOI 10.1016/j.brainres.2010.11.076
+   Stocco A, 2014, PARKINSONISM RELAT D, V20, P1035, DOI 10.1016/j.parkreldis.2014.06.019
+   Stone V.E., 2000, UNDERSTANDING OTHER, V2nd, P253
+   Stuss D.T., 2013, Principles of frontal lobe function
+   Sweeten TL, 2002, PHARMACOL BIOCHEM BE, V71, P449, DOI 10.1016/S0091-3057(01)00697-9
+   Szatmari P, 1998, J AUTISM DEV DISORD, V28, P351, DOI 10.1023/A:1026096203946
+   Taghva AS, 2013, WORLD NEUROSURG, V80, DOI 10.1016/j.wneu.2012.10.068
+   Tanne JH, 2012, BMJ-BRIT MED J, V344, DOI 10.1136/bmj.e2768
+   Taylor DC, 1999, EUR CHILD ADOLES PSY, V8, P189, DOI 10.1007/s007870050128
+   van Bon BWM, 2016, MOL PSYCHIATR, V21, P126, DOI 10.1038/mp.2015.5
+   Veinante P., 2013, J MOL PSYCHIAT, V1, P9, DOI [10.1186/2049-9256-1-9, DOI 10.1186/2049-9256-1-9]
+   Voineagu I, 2011, NATURE, V474, P380, DOI 10.1038/nature10110
+   Wacker J, 2009, NEUROIMAGE, V46, P327, DOI 10.1016/j.neuroimage.2009.01.058
+   Wassink TH, 2004, MENT RETARD DEV D R, V10, P272, DOI 10.1002/mrdd.20041
+   Weiss LA, 2008, NEW ENGL J MED, V358, P667, DOI 10.1056/NEJMoa075974
+   Willsey AJ, 2015, CURR OPIN NEUROBIOL, V30, P92, DOI 10.1016/j.conb.2014.10.015
+   Willsey AJ, 2013, CELL, V155, P997, DOI 10.1016/j.cell.2013.10.020
+   Wood JN, 2003, NAT REV NEUROSCI, V4, P139, DOI 10.1038/nrn1033
+   Xu Jie, 2004, Current Genomics, V5, P347, DOI 10.2174/1389202043349246
+   Yasuda H, 2011, SCI REP-UK, V1, DOI 10.1038/srep00129
+   Young AW, 1996, NEUROPSYCHOLOGIA, V34, P31, DOI 10.1016/0028-3932(95)00062-3
+   Zelazo P.D., 2002, BLACKWELL HDB CHILDH, P445, DOI [10.1002/9780470996652.ch20, DOI 10.1002/9780470996652.CH20]
+   Zwaigenbaum L, 2005, INT J DEV NEUROSCI, V23, P143, DOI 10.1016/j.ijdevneu.2004.05.001
+NR 152
+TC 150
+Z9 214
+U1 1
+U2 47
+PU KOREAN SOC BRAIN & NEURAL SCIENCE, KOREAN SOC NEURODEGENERATIVE DISEASE
+PI SEOUL
+PA EXPERIMENTAL NEUROBIOLOGY,  SEOUL NATL UNIV, RM 410, BLDG 152-1, SEOUL,
+   151-742, SOUTH KOREA
+SN 1226-2560
+EI 2093-8144
+J9 EXP NEUROBIOL
+JI Exp. Neurobiol.
+PD FEB
+PY 2016
+VL 25
+IS 1
+BP 1
+EP 13
+DI 10.5607/en.2016.25.1.1
+PG 13
+WC Medicine, Research & Experimental; Neurosciences
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Research & Experimental Medicine; Neurosciences & Neurology
+GA FC5CD
+UT WOS:000406857600001
+OA Green Published
+DA 2026-11-10
+ER
+
+PT J
+AU Specter, M
+AF Specter, Matthew
+TI RETHINKING MODERN EUROPEAN INTELLECTUAL HISTORY
+SO HISTORY AND THEORY
+LA English
+DT Book Review
+DE contextualism; Cambridge School; culture concept; longue duree; spatial
+   turn; history of ideas
+AB Though the fourteen contributors to this volume bring varied perspectives on method, most striking is their common engagement with contextualist approaches. While some of the essays advocate a temporally and spatially extended, renewed history of ideas with debts to Arthur Lovejoy, and are critical of excessive contextualization, several either defend contextualism, or the culture concept, or offer a more robust materialist foundation for the history of thought and culture. This review focuses on the logic and metaphors used to criticize contextual methods and highlights problems with both the new history of ideas and the new materialist gestures.
+C1 [Specter, Matthew] Cent Connecticut State Univ, New Britain, CT 06053 USA.
+C3 Connecticut State University System; Central Connecticut State
+   University
+RP Specter, M (corresponding author), Cent Connecticut State Univ, New Britain, CT 06053 USA.
+RI /U-1519-2019
+CR McMahon D. M., 2014, RETHINKING MODERN EU
+NR 1
+TC 5
+Z9 5
+U1 0
+U2 5
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0018-2656
+EI 1468-2303
+J9 HIST THEORY
+JI Hist. Theory
+PD FEB
+PY 2016
+VL 55
+IS 1
+BP 110
+EP 128
+DI 10.1111/hith.10790
+PG 19
+WC History
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC History
+GA DD5OZ
+UT WOS:000369975000007
+DA 2026-11-10
+ER
+
+PT J
+AU Mortensen, K
+AF Mortensen, Kristian
+TI The Body as a Resource for Other-Initiation of Repair: Cupping the Hand
+   Behind the Ear
+SO RESEARCH ON LANGUAGE AND SOCIAL INTERACTION
+LA English
+DT Article
+ID CONVERSATION; ORGANIZATION; CLASSROOM; GESTURE; 2ND-LANGUAGE;
+   ACHIEVEMENT; SEQUENCES; KNOWLEDGE; HEARING; GERMAN
+AB This article analyzes how the human body serves as a resource for other-initiation of repair. It describes how a hand gesture, a cupped hand behind the ear, is oriented to as a repair initiation in a foreign language classroom. The gesture typically occurs in the absence of speech and is treated as a hearing problem. The article argues that hearing does not refer to the acoustic reception but rather to the recipient's hearing as displayed conduct and relates to the recipient's lack of displayed orientation to the speaker during the trouble source turn. When the repair initiation is accomplished by co-occurring speech and gesture, the speech specifically marks the trouble as not a hearing problem. Data in English as a second language.
+C1 [Mortensen, Kristian] Univ Southern Denmark, Dept Design & Commun, Univ Parken 1, DK-6000 Kolding, Denmark.
+C3 University of Southern Denmark
+RP Mortensen, K (corresponding author), Univ Southern Denmark, Dept Design & Commun, Univ Parken 1, DK-6000 Kolding, Denmark.
+EM krimo@sdu.dk
+RI Mortensen, Kristian/NFS-0662-2025
+OI Mortensen, Kristian/0000-0002-9790-1408
+CR [Anonymous], 2013, Conversational repair and human understanding, DOI DOI 10.1017/CBO9780511757464.001
+   [Anonymous], 2004, INTERACTIONAL ARCHIT
+   [Anonymous], 2007, SEQUENCE ORG INTERAC
+   Arminen I, 2014, J PRAGMATICS, V65, P46, DOI 10.1016/j.pragma.2014.01.004
+   Barr-Hamilton R M, 1983, Br J Audiol, V17, P27
+   Carroll D., 2004, 2 LANGUAGE CONVERSAT, P201, DOI DOI 10.5040/9781474212335.0014
+   Couper-Kuhlen E., 1992, CONTEXTUALIZATION LA, P337, DOI DOI 10.1075/PBNS.22
+   Curl TS, 2005, DISCOURSE PROCESS, V39, P1, DOI 10.1207/s15326950dp3901_1
+   Day D., 2012, DESIGN ANTHR BUILDIN
+   De Stefani E, 2014, J PRAGMATICS, V65, P63, DOI 10.1016/j.pragma.2013.08.020
+   Deppermann A, 2013, J PRAGMATICS, V46, P91, DOI 10.1016/j.pragma.2012.07.010
+   Deppermann A, 2013, J PRAGMATICS, V46, P1, DOI 10.1016/j.pragma.2012.11.014
+   Drew P, 1997, J PRAGMATICS, V28, P69, DOI 10.1016/S0378-2166(97)89759-7
+   Drew P, 2005, LEA COMMUN SER, P71
+   Egbert M., 2009, Conversation Analysis: Contrastive Perspectives, P104, DOI DOI 10.1017/CB097805116356
+   Egbert MM, 1996, LANG SOC, V25, P587, DOI 10.1017/S0047404500020820
+   Enfield N.J., 2013, Conversational repair and human understanding, P343, DOI DOI 10.1017/CBO9780511757464.012
+   Ford CE, 2012, DISCOURSE PROCESS, V49, P192, DOI 10.1080/0163853X.2012.654761
+   Gass S.M., 1997, Input, interaction, and the second language learner, DOI [10.4324/9780203053560, DOI 10.4324/9780203053560]
+   Goodwin C, 2003, POINTING: WHERE LANGAUAGE, CULTURE, AND COGNITON MEET, P217
+   GOODWIN C, 1980, SOCIOL INQ, V50, P272, DOI 10.1111/j.1475-682X.1980.tb00023.x
+   Goodwin C, 2000, J PRAGMATICS, V32, P1489, DOI 10.1016/S0378-2166(99)00096-X
+   Goodwin C., 1981, CONVERSATIONAL ORG I
+   Goodwin C, 2013, J PRAGMATICS, V46, P8, DOI 10.1016/j.pragma.2012.09.003
+   Goodwin Charles., 2003, DISCOURSE BODY IDENT, P19, DOI [10.1057/9781403918543_2, DOI 10.1057/9781403918543_2]
+   Hall JK, 2007, MOD LANG J, V91, P511, DOI 10.1111/j.1540-4781.2007.00619.x
+   Hayashi M, 2015, J PRAGMATICS, V87, P198, DOI 10.1016/j.pragma.2013.11.014
+   Hazel S, 2014, J PRAGMATICS, V65, P1, DOI 10.1016/j.pragma.2013.10.007
+   Heath C., 2011, EMBODIED INTERACTION, P276
+   Heritage J., 1984, STRUCTURES SOCIAL AC, P299, DOI [DOI 10.1017/CBO9780511665868.020, 10.1017/CBO9780511665868.020, 10.1017/cbo9780511665868.020]
+   Heritage John., 1979, EVERYDAY LANGUAGE, P123
+   Kaanta L, 2010, JYVASKYLA STUDIES HU, V137
+   Kaanta L., 2015, MULTIMODAL RES UNPUB
+   Kasper G., 1985, Studies in Second Language Acquisition, V7, P200, DOI [DOI 10.1017/S0272263100005374, 10.1017/s0272263100005374]
+   Keevallik L, 2013, RES LANG SOC INTERAC, V46, P1, DOI 10.1080/08351813.2013.753710
+   Kendon A., 1990, Conducting Interaction
+   Kendon A., 1980, RELATIONSHIP VERBAL, P207, DOI DOI 10.1515/9783110813098.207
+   Kidwell M., 1997, Issues in Applied Linguistics, V8, P85
+   Koole T., 2007, Language and Education, V21, P487, DOI [10.2167/le713.0, DOI 10.2167/LE713.0]
+   Koschmann T, 2002, COGNITION INSTRUCT, V20, P249, DOI 10.1207/S1532690XCI2002_4
+   Koshik I, 2002, RES LANG SOC INTERAC, V35, P277, DOI 10.1207/S15327973RLSI3503_2
+   Lebaron CD, 1997, HUM STUD, V20, P1, DOI 10.1023/A:1005305331171
+   Lempert M, 2011, GESTURE, V11, P241, DOI 10.1075/gest.11.3.01lem
+   MacBeth D, 2004, LANG SOC, V33, P703, DOI 10.1017/S0047404504045038
+   Markee N., 2005, Applying conversation analysis, P187
+   Mazeland Harrie, 1987, INT PRAGM ASS C ANTW
+   MCHOUL AW, 1990, LANG SOC, V19, P349, DOI 10.1017/S004740450001455X
+   McNeill D., 1992, Hand and Mind
+   Mondada L, 2012, QUAL RES, V12, P304, DOI 10.1177/1468794112438149
+   Mortensen K., 2011, Novitas-Royal, V5, P55
+   Mortensen K., 2011, L2 learning as social practice: Conversation-analytic perspectives, P135
+   Mortensen K, 2009, DISCOURSE PROCESS, V46, P491, DOI 10.1080/01638530902959463
+   Mortensen Kristian, 2012, Challenges and new directions in the micro-analysis of social interaction, P45
+   Olsher D., 2004, Second language conversations, P221, DOI DOI 10.5040/9781474212335.0015
+   Olsher D, 2008, ESL APPL LING PROF, P109
+   Pajo K, 2013, J PRAGMATICS, V55, P162, DOI 10.1016/j.pragma.2013.06.004
+   Peach S., 2014, THE INDEPENDENT 0327
+   Pomerantz A., 1984, STRUCTURE SOCIAL ACT, P57, DOI [10.1017/CBO9780511665868.008, DOI 10.1017/CBO9780511665868.008, 10.1093/oso/9780190927431.003.0002, DOI 10.1093/OSO/9780190927431.003.0002]
+   Rasmussen G, 2014, J PRAGMATICS, V65, P30, DOI 10.1016/j.pragma.2013.10.001
+   Rauniomaa M, 2012, J PRAGMATICS, V44, P829, DOI 10.1016/j.pragma.2012.03.003
+   Robinson JD, 2006, COMMUN MONOGR, V73, P137, DOI 10.1080/03637750600581206
+   SACKS H, 1974, LANGUAGE, V50, P696, DOI 10.2307/412243
+   Schegloff E.A., 1972, Studies in social interaction, P75
+   Schegloff E.A., 1973, SEMIOTICA, V8, P289, DOI [DOI 10.1515/SEMI.1973.8.4.289, 10.1515/semi.1973.8.4.289]
+   Schegloff E. A., 1968, AM ANTHROPOL, V70, P1075, DOI [10.1525/aa.1968.70.issue-6, DOI 10.1525/AA.1968.70.]
+   SCHEGLOFF EA, 1977, LANGUAGE, V53, P361, DOI 10.2307/413107
+   Schegloff EA, 1997, DISCOURSE PROCESS, V23, P499, DOI 10.1080/01638539709545001
+   Schegloff EA, 2000, APPL LINGUIST, V21, P205, DOI 10.1093/applin/21.2.205
+   Schegloff EA, 2004, RES LANG SOC INTERAC, V37, P95, DOI 10.1207/s15327973rlsi3702_2
+   SCHEGLOFF EA, 1992, AM J SOCIOL, V97, P1295, DOI 10.1086/229903
+   Schegloff EmanuelA., 1987, TALK SOCIAL ORG, P70
+   Seedhouse P, 1997, LANG LEARN, V47, P547, DOI 10.1111/0023-8333.00019
+   Seo M.-S., 2011, L2 LEARNING SOCIAL P, V2, P107
+   Seo MS, 2010, J PRAGMATICS, V42, P2219, DOI 10.1016/j.pragma.2010.01.021
+   Sinclair J., 1975, Towards an analysis of discourse: The language of teachers and pupils
+   STEPHENS SDG, 1984, AUDIOLOGY, V23, P215
+   Stivers T., 2001, Text, V21, P151, DOI DOI 10.1515/TEXT.1.21.1-2.151
+   Streeck J, 1996, HUM STUD, V19, P365, DOI 10.1007/BF00188849
+   Streeck J., 2011, Embodied interaction: Language and body in the material world, P67, DOI DOI 10.2307/41682379
+   Streeck J., 2009, Gesturecraft
+   Streeck J, 2013, J PRAGMATICS, V46, P69, DOI 10.1016/j.pragma.2012.10.010
+   Streeck J, 2008, GESTURE, V8, P285, DOI 10.1075/gest.8.3.02str
+   Svennevig J, 2008, J PRAGMATICS, V40, P333, DOI 10.1016/j.pragma.2007.11.007
+NR 83
+TC 45
+Z9 54
+U1 1
+U2 11
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0835-1813
+EI 1532-7973
+J9 RES LANG SOC INTERAC
+JI Res. Lang. Soc. Interact.
+PD JAN 2
+PY 2016
+VL 49
+IS 1
+BP 34
+EP 57
+DI 10.1080/08351813.2016.1126450
+PG 24
+WC Communication; Linguistics; Psychology, Social
+WE Social Science Citation Index (SSCI)
+SC Communication; Linguistics; Psychology
+GA DG3TC
+UT WOS:000371992000005
+OA Green Published
+DA 2026-11-10
+ER
+
+PT J
+AU Cohn, N
+AF Cohn, Neil
+TI A multimodal parallel architecture: A cognitive framework for multimodal
+   interactions
+SO COGNITION
+LA English
+DT Article
+DE Multimodality; Visual language; Gesture; Comics; Narrative; Parallel
+   architecture; Linguistic models
+ID LANGUAGE; COMPREHENSION; COMMUNICATION; DISCOURSE; INFERENCE; PICTURES;
+   GRAMMAR; EVENTS; WORDS; TIME
+AB Human communication is naturally multimodal, and substantial focus has examined the semantic correspondences in speech-gesture and text-image relationships. However, visual narratives, like those in comics, provide an interesting challenge to multimodal communication because the words and/or images can guide the overall meaning, and both modalities can appear in complicated "grammatical" sequences: sentences use a syntactic structure and sequential images use a narrative structure. These dual structures create complexity beyond those typically addressed by theories of multimodality where only a single form uses combinatorial structure, and also poses challenges for models of the linguistic system that focus on single modalities. This paper outlines a broad theoretical framework for multimodal interactions by expanding on Jackendoffs (2002) parallel architecture for language. Multimodal interactions are characterized in terms of their component cognitive structures: whether a particular modality (verbal, bodily, visual) is present, whether it uses a grammatical structure (syntax, narrative), and whether it "dominates" the semantics of the overall expression. Altogether, this approach integrates multimodal interactions into an existing framework of language and cognition, and characterizes interactions between varying complexity in the verbal, bodily, and graphic domains. The resulting theoretical model presents an expanded consideration of the boundaries of the "linguistic" system and its involvement in multimodal interactions, with a framework that can benefit research on corpus analyses, experimentation, and the educational benefits of multimodality. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Cohn, Neil] Univ Calif San Diego, Ctr Res Language, La Jolla, CA 92093 USA.
+C3 University of California System; University of California San Diego
+RP Cohn, N (corresponding author), Univ Calif San Diego, Ctr Res Language, 9500 Gilman Dr,Dept 0526, La Jolla, CA 92093 USA.
+EM neilcohn@visuallanguagelab.com
+OI Cohn, Neil/0000-0003-0074-1995
+CR [Anonymous], DOC AN REC ICDAR 201
+   [Anonymous], THESIS
+   [Anonymous], 1980, ED BROADCASTING INT
+   Asher Nicholas., 2003, Logics of conversation
+   Ayres P., 2005, CAMBRIDGE HDB MULTIM, P135, DOI [DOI 10.1017/CBO9780511816819.009, 10.1017/CBO9781139547369.011, DOI 10.1017/CBO9781139547369.011]
+   Baetens J, 2011, SUB-STANCE, V40, P94
+   Bateman J.A., 2012, Multimodal film analysis: How films mean
+   Bateman JA, 2014, TEXT AND IMAGE: A CRITICAL INTRODUCTION TO THE VISUAL/VERBAL DIVIDE, P1
+   Bateman JA, 2014, J PRAGMATICS, V74, P180, DOI 10.1016/j.pragma.2014.10.001
+   Bordwell D., 1997, FILM ART INTRO
+   Brouwer H, 2012, BRAIN RES, V1446, P127, DOI 10.1016/j.brainres.2012.01.055
+   Canseco-Gonzalez E., 1997, COGN NEUR SOC 4 ANN
+   Cheng L. L.-S., 2013, DIAGNOSING SYNTAX
+   Chomsky N., 1970, READINGS ENGLISH TRA, P184
+   Chomsky N., 1965, Aspects of the Theory of Syntax, DOI DOI 10.21236/AD0616323
+   Chwilla DJ, 2005, COGNITIVE BRAIN RES, V25, P589, DOI 10.1016/j.cogbrainres.2005.08.011
+   Cimermanova I, 2015, PROCD SOC BEHV, V174, P2452, DOI 10.1016/j.sbspro.2015.01.916
+   Clark H.H., 1996, USING LANGUAGE, DOI DOI 10.1017/CBO9780511620539
+   Cohn N., 2015, WHAT CAN YOU D UNPUB
+   Cohn N., 2003, WARLY WRITINGS VISUA
+   Cohn N., 2007, Public Journal of Semiotics, V1, P53
+   Cohn N, 2015, J PRAGMATICS, V88, P105, DOI 10.1016/j.pragma.2015.09.001
+   Cohn N, 2015, NEUROPSYCHOLOGIA, V77, P267, DOI 10.1016/j.neuropsychologia.2015.08.026
+   Cohn N, 2015, J COGN PSYCHOL, V27, P812, DOI 10.1080/20445911.2015.1051535
+   Cohn N, 2015, BRAIN RES, V1601, P73, DOI 10.1016/j.brainres.2015.01.018
+   Cohn N, 2014, NEUROPSYCHOLOGIA, V64, P63, DOI 10.1016/j.neuropsychologia.2014.09.018
+   Cohn N, 2014, COGNITIVE SCI, V38, P1317, DOI 10.1111/cogs.12116
+   Cohn N, 2014, FRONT PSYCHOL, V5, DOI 10.3389/fpsyg.2014.00680
+   Cohn N, 2013, SEMIOTICA, V197, P35, DOI 10.1515/sem-2013-0079
+   Cohn N, 2013, COGNITIVE SCI, V37, P413, DOI 10.1111/cogs.12016
+   Cohn N, 2012, HUM DEV, V55, P167, DOI 10.1159/000341842
+   Cohn N, 2012, FRONT PSYCHOL, V3, DOI 10.3389/fpsyg.2012.00349
+   Cohn N, 2012, COGNITIVE PSYCHOL, V65, P1, DOI 10.1016/j.cogpsych.2012.01.003
+   Cohn N, 2010, STUD COMICS, V1, P127, DOI 10.1386/stic.1.1.127/1
+   Cohn N, 2010, J PRAGMATICS, V42, P3138, DOI 10.1016/j.pragma.2010.04.016
+   Cohn Neil., 2013, The Visual Language of Comics: Introduction to the Structure and Cognition of Sequential Images
+   Cohn Neil., 2011, IMAGE NARRATIVE, V12, P120
+   Culicover P.W., 2005, SIMPLER SYNTAX, DOI [DOI 10.1093/ACPROF:OSO/9780199271092.001.0001, 10.1093/acprof:oso/9780199271092.001.0001]
+   Culicover PW, 2010, TRENDS COGN SCI, V14, P234, DOI 10.1016/j.tics.2010.03.012
+   Dreyfuss Henry., 1984, Symbol Sourcebook: An Authoritative Guide to International Graphic Symbols
+   Emmorey K, 2008, BILING-LANG COGN, V11, P43, DOI 10.1017/S1366728907003203
+   Engelhardt Y., 2007, Image, V5, P23
+   Fauconnier G., 2002, THE WAY WE THINK
+   Forceville C., 2015, VISUAL NARRATIVE REA
+   Forceville C, 2011, J PRAGMATICS, V43, P875, DOI 10.1016/j.pragma.2010.07.014
+   Forceville Charles., 2010, RISE REASON COMICS G
+   Forceville CJ, 2009, APPL COGN LINGUIST, V11, P1, DOI 10.1515/9783110215366
+   Fricke E., 2013, BODY LANGUAGE COMMUN, V1, P733, DOI [10.1515/9783110261318.733, DOI 10.1515/9783110261318.733]
+   FUSSEL D., 1978, ED BROADCASTING INT, V11, P25
+   Ganis G, 1996, J COGNITIVE NEUROSCI, V8, P89, DOI 10.1162/jocn.1996.8.2.89
+   Gernsbacher M., 1990, Language comprehension as structure building, DOI 10.21236/ADA221854
+   GERNSBACHER MA, 1990, J EXP PSYCHOL LEARN, V16, P430, DOI 10.1037/0278-7393.16.3.430
+   Gibson E, 2010, TRENDS COGN SCI, V14, P233, DOI 10.1016/j.tics.2010.03.005
+   Goldberg A.E., 1995, Constructions: A construction grammar approach to argument structure, DOI DOI 10.1093/ACPROF:OSO/9780199268511.001.0001
+   Goldin-Meadow S, 2006, CURR DIR PSYCHOL SCI, V15, P34, DOI 10.1111/j.0963-7214.2006.00402.x
+   Goldin-Meadow S, 1999, TRENDS COGN SCI, V3, P419, DOI 10.1016/S1364-6613(99)01397-2
+   Goldin-Meadow S., 2003, Hearing gesture: How our hands help up think
+   Goldin-Meadow S, 2008, P NATL ACAD SCI USA, V105, P9163, DOI 10.1073/pnas.0710060105
+   Goldin-Meadow Susan., 2003, The Resilience of Language, DOI DOI 10.4324/9780203943267
+   GoldinMeadow S, 1996, PSYCHOL REV, V103, P34, DOI 10.1037/0033-295X.103.1.34
+   GOLDINMEADOW S, 1977, SCIENCE, V197, P401, DOI 10.1126/science.877567
+   Green J., 2014, Drawn from the ground: sound, sign and inscription in Central Australian sand stories
+   Grice H. P., 1967, 1975 SYNTAX SEMANTIC, V3, P41
+   Hagan SM, 2007, WRIT COMMUN, V24, P49, DOI 10.1177/0741088306296901
+   Halliday M.A.K., 1989, Language, context, and text
+   Hauser MD, 2002, SCIENCE, V298, P1569, DOI 10.1126/science.298.5598.1569
+   Hinds J., 1976, ASPECTS JAPANESE DIS
+   Hobbs J. R., 1985, 8537 CSLI
+   Horn R.E., 1998, VISUAL LANGUAGE GLOB
+   Hutchins E., 2011, Embodied Interaction Language and Body in the Material World, P29
+   Jackendoff R, 2003, BEHAV BRAIN SCI, V26, P651, DOI 10.1017/S0140525X03000153
+   JACKENDOFF R, 1991, COGNITION, V41, P9, DOI 10.1016/0010-0277(91)90031-X
+   Jackendoff R., 2014, MEASURING LINGUISTIC
+   Jackendoff Ray., 1990, SEMANTIC STRUCTURES
+   Kehler Andrew., 2002, Coherence, Reference, and the Theory of Grammar
+   Kogo T., 1998, JAPAN J ED TECHNOLOG, V22, P87
+   Kress G., 2010, Multimodality: A social semiotic approach to contemporary communication, DOI [ 10.4324/9780203970034, DOI 10.4324/9780203970034]
+   Kress G.Kegan Paul., 2001, MULTIMODAL DISCOURSE
+   Kress Gunthere., 1996, READING IMAGES GRAMM, DOI DOI 10.1080/07908319709525245
+   Langacker RW, 2001, COGN LINGUIST, V12, P143, DOI 10.1515/cogl.12.2.143
+   Liungman C.G., 1991, Dictionary of symbols
+   Magliano J., 2007, HIGHER LEVEL LANGUAG
+   Magliano JP, 2011, COGNITIVE SCI, V35, P1489, DOI 10.1111/j.1551-6709.2011.01202.x
+   Magliano JP, 1996, DISCOURSE PROCESS, V22, P199, DOI 10.1080/01638539609544973
+   MANDLER JM, 1977, COGNITIVE PSYCHOL, V9, P111, DOI 10.1016/0010-0285(77)90006-8
+   Marr David., 1982, VISION
+   MARSLENWILSON W, 1980, COGNITION, V8, P1, DOI 10.1016/0010-0277(80)90015-3
+   Martinec R., 2005, VISUAL COMMUN-US, V4, P337, DOI DOI 10.1177/1470357205055928
+   Mayer RE, 2009, MULTIMEDIA LEARNING, 2ND EDITION, P1, DOI 10.1017/CBO9780511811678
+   McCloud Scott., 1993, UNDERSTANDING COMICS
+   McNeill D., 2001, Gesture, V1, P9, DOI [DOI 10.1075/GEST.1.1.03MCN, 10.1075/gest.1.1.03mcn]
+   McNeill D., 1992, Hand and Mind
+   McNeill D., 2000, LANGUAGE GESTURE, DOI [10.7208/9780226514642, DOI 10.7208/9780226514642]
+   McNeill David., 2000, LANGUAGE GESTURE, P312, DOI DOI 10.1017/CBO9780511620850.019
+   Meek M., 1988, TEXTS TEACH WHAT REA
+   Mitchell W.J. T., 1986, Iconology: Image, Text, Ideology
+   Molotiu Andrei., 2009, ABSTRACT COMICS ANTH
+   Munte TF, 1997, J COGNITIVE NEUROSCI, V9, P318, DOI 10.1162/jocn.1997.9.3.318
+   Nakazawa J., 2005, APPL DEV PSYCHOL, P23
+   Nakazawa J, 2016, VISUAL NARRATIVE READER, P157
+   Nalu A., 2011, Proceedings of the Human Factors and Ergonomics Society, V55, P2123, DOI DOI 10.1177/1071181311551443
+   NIGAM A, 1992, J COGNITIVE NEUROSCI, V4, P15, DOI 10.1162/jocn.1992.4.1.15
+   Osaka M, 2014, SCI REP-UK, V4, DOI 10.1038/srep05828
+   Osterhout L, 1999, LANG COGNITIVE PROC, V14, P283, DOI 10.1080/016909699386310
+   Painter C., 2012, Reading visual narratives: Image analysis of children's picture books
+   Pinker Steven., 1994, LANGUAGE INSTINCT
+   Pyers JE, 2008, PSYCHOL SCI, V19, P531, DOI 10.1111/j.1467-9280.2008.02119.x
+   Renkl A., 2005, The Cambridge handbook of multimedia learning, P229, DOI [DOI 10.1017/CBO9781139547369, DOI 10.1017/CBO9780511816819.016]
+   Royce T., 1998, JASFL occasional papers, V1, P25
+   Royce Terry D., 2007, New Directions in the Analysis of Multimodal Discourse, P63, DOI DOI 10.4324/9780203357774
+   Rumelhart D.E., 1975, Representation and understanding, P211, DOI [10.1016/B978-0-12-108550-6.50013-6, DOI 10.1016/B978-0-12-108550-6.50013-6]
+   Saraceni M., 2001, THE GRAPHIC NOVEL, P167
+   Schnoebelen T. J., 2012, THESIS
+   Short JC, 2013, BUS PROF COMMUN Q, V76, P273, DOI 10.1177/1080569913482574
+   SHROUT PE, 1979, PSYCHOL BULL, V86, P420, DOI 10.1037/0033-2909.86.2.420
+   Stainbrook E, 2016, VISUAL NARRATIVE READER, P129
+   Sutton Valerie., 1995, Lessons in Sign Writing: Textbook
+   van Dijk T.A., 1983, Strategies of discourse processing
+   VANPETTEN C, 1991, MEM COGNITION, V19, P95, DOI 10.3758/BF03198500
+   Wang X., 2014, 22 INT C COMP ED JAP
+   Wilkins D. P., 1997, VISUAL NARRATIVE REA, P252
+   Willats J., 1997, ART REPRESENTATION N
+   Willats J., 2005, MAKING SENSE CHILDRE, DOI DOI 10.4324/9781410613561
+   Wilson B., 1987, Visual Arts Research, V13, P10
+   Wilson B, 2016, VISUAL NARRATIVE READER, P185
+   Zacks JeffreyM., 2014, Flicker: Your Brain on Movies
+   Zwaan RA, 1998, PSYCHOL BULL, V123, P162, DOI 10.1037/0033-2909.123.2.162
+NR 127
+TC 77
+Z9 94
+U1 3
+U2 103
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0010-0277
+EI 1873-7838
+J9 COGNITION
+JI Cognition
+PD JAN
+PY 2016
+VL 146
+BP 304
+EP 323
+DI 10.1016/j.cognition.2015.10.007
+PG 20
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Psychology
+GA CZ5AW
+UT WOS:000367115500030
+PM 26491835
+DA 2026-11-10
+ER
+
+PT J
+AU Di Franco, PD
+   Matthews, JL
+   Matlock, T
+AF Di Franco, Paola Di Giuseppantonio
+   Matthews, Justin L.
+   Matlock, Teenie
+TI Framing the past: How virtual experience affects bodily description of
+   artefacts
+SO JOURNAL OF CULTURAL HERITAGE
+LA English
+DT Article
+DE 3D digital replicas; 3D prints; Embodied cognition; Embodiment;
+   Perception; Gestures; Discourse; Artefacts; Frames; Experience
+ID OBJECTS
+AB This study uses a novel, interdisciplinary approach to investigate how people describe ancient artefacts. Here, we focus on gestures. Researchers have shown that gestures are important in communication, and those researchers often make a distinction between beat and iconic gestures. Iconic gestures convey meaning, specifically, visual-spatial information. Beat gestures do not convey meaning; they facilitate lexical access. In our study, we videotaped participants while they described artefacts presented through varied media: visual examination, physical interaction, and three-dimensional virtual and material replica (i.e., 3D prints) interaction. Video analysis revealed that media type affected gesture production. Participants who viewed actual objects displayed in a museum-style case produced few gestures in their descriptions. This finding suggests that traditional museum displays may diminish or limit museum users degree of engagement with ancient artefacts. This interdisciplinary work advances our knowledge of material culture by providing new insights into how people use and experience ancient artefacts in varied presentations. Implications for virtual reproduction in research, education, and communication in archaeology are discussed. (C) 2015 Elsevier Masson SAS. All rights reserved.
+C1 [Di Franco, Paola Di Giuseppantonio] Univ Cambridge, McDonald Inst Archaeol Res, Downing St, Cambridge CB2 3ER, England.
+   [Matthews, Justin L.] Calif State Univ Monterey Bay, Dept Psychol, 100 Campus Ctr, Seaside, CA 93955 USA.
+   [Matlock, Teenie] Univ Calif Merced, Cognit & Informat Sci, 5200 North Lake Rd, Merced, CA 95343 USA.
+C3 University of Cambridge; California State University System; California
+   State University Monterey Bay; University of California System;
+   University of California Merced
+RP Di Franco, PD (corresponding author), Univ Cambridge, McDonald Inst Archaeol Res, Downing St, Cambridge CB2 3ER, England.
+EM pd408@cam.ac.uk; jmatthews@csumb.edu; tmatlock@ucmerced.edu
+RI Matthews, Justin/F-2394-2010; Di Giuseppantonio Di Franco,
+   Paola/MIT-3939-2025
+OI Matthews, Justin/0000-0002-3627-9918; Di Giuseppantonio Di Franco,
+   Paola/0000-0002-9371-9553
+FU University of California Humanities Network; Center for the Humanities
+   at the University of California, Merced
+FX This paper is part of a larger study on how people perceive ancient
+   artefacts, which was partially funded by the University of California
+   Humanities Network and the Center for the Humanities at the University
+   of California, Merced. We would like to thank Mark Aldenderfer and
+   Kathleen Hull for sharing valuable insights related to this project. We
+   would also like to thank Fabrizio Galeazzi and Carlo Camporesi for their
+   help with gesture coding and statistical analysis. Special thanks go to
+   all students and archaeologists who agreed to participate in the
+   experiment.
+CR [Anonymous], P IEEE VIRT REAL ORL
+   [Anonymous], 8 IEEE INT WORKSH RO
+   [Anonymous], MUS WEB P TOR ARCH M
+   [Anonymous], PROLEGOMENA ANY FUTU
+   [Anonymous], IMECE2000
+   [Anonymous], IEEE VIRTUAL REALITY
+   [Anonymous], P VIRT REAL SOFTW TE
+   [Anonymous], REVIVE THE PAST
+   [Anonymous], BAR INT SERIES
+   [Anonymous], 1994, P AMSE S HAPT INT VI
+   Bateson Gregory., 1972, STEPS ECOLOGY MIND C, DOI DOI 10.21018/RJCPR.2016.3.214
+   BAVELAS JB, 1992, DISCOURSE PROCESS, V15, P469, DOI 10.1080/01638539209544823
+   Brewster S.A., 2001, Proceedings of EVA, V1, P1
+   Carrozzino M, 2010, J CULT HERIT, V11, P452, DOI 10.1016/j.culher.2010.04.001
+   Clark Adams., 1997, BEING THERE PUTTING, DOI DOI 10.7551/MITPRESS/1552.001.0001
+   Derrida Jacques., 1987, The Truth in Painting
+   Doonan R., 2008, Touch in Museums: policy and practice in object handling, P107
+   Dudley Sandra H., MUSEUM MAT OBJECTS E, P1
+   Forte Maurizio., 2010, SPACE TIME PLACE P 3, P195
+   Gaiani M, 2001, VSMM 2001: SEVENTH INTERNATIONAL CONFERENCE ON VIRTUAL SYSTEMS AND MULTIMEDIA, PROCEEDINGS, P86, DOI 10.1109/VSMM.2001.969659
+   Gibson JamesJ., 1977, ECOLOGICAL APPROACH
+   Gîrbacia F, 2013, EUR J SCI THEOL, V9, P223
+   Goldin-Meadow S., 2003, Hearing gesture: How our hands help up think
+   Gruen A., 2002, International Archives of Photogrammetry and Remote Sensing, VXXXIV, P363
+   Hutchins E, 2005, J PRAGMATICS, V37, P1555, DOI 10.1016/j.pragma.2004.06.008
+   Jansson G., 1998, Proceedings of the 2nd European conference on disability, virtual reality, and associated technologies (ECDVRAT), P105
+   Kirsh D., 2009, CAMBRIDGE HDB SITUAT, P264, DOI [DOI 10.1017/CBO9780511816826.0152, 10.1017/CBO9780511816826.0152]
+   Kirsh D., 2010, Cyber-Archaeology, V2177, P119
+   Kirsh D, 2010, AI SOC, V25, P441, DOI 10.1007/s00146-010-0272-8
+   KLATZKY RL, 1985, PERCEPT PSYCHOPHYS, V37, P299, DOI 10.3758/BF03211351
+   Krauss RM, 1998, CURR DIR PSYCHOL SCI, V7, P54, DOI 10.1111/1467-8721.ep13175642
+   Ku JH, 2003, CYBERPSYCHOL BEHAV, V6, P497, DOI 10.1089/109493103769710523
+   Kuzminsky SC, 2012, J ARCHAEOL SCI, V39, P2744, DOI 10.1016/j.jas.2012.04.020
+   Latour B, 2017, LOGOS-RUSS, P95, DOI 10.22394/0869-5377-2017-2-95-151
+   LEDERMAN SJ, 1990, COGNITIVE PSYCHOL, V22, P421, DOI 10.1016/0010-0285(90)90009-S
+   Lin SCH, 2010, J ARCHAEOL SCI, V37, P694, DOI 10.1016/j.jas.2009.10.030
+   Loscos C, 2004, P INT S VIRT REAL AR, P271
+   MacGregor G, 1999, WORLD ARCHAEOL, V31, P258, DOI 10.1080/00438243.1999.9980445
+   Martin Trenor J., 2009, Ph.D. Thesis, P1
+   Matlock T, 2012, STUD LANG, V36, P699, DOI 10.1075/sl.36.3.09mat
+   McNeill David., 2007, Gesture and Thought
+   Mehta M, 2001, VSMM 2001: SEVENTH INTERNATIONAL CONFERENCE ON VIRTUAL SYSTEMS AND MULTIMEDIA, PROCEEDINGS, P183, DOI 10.1109/VSMM.2001.969670
+   Niven L, 2009, J ARCHAEOL SCI, V36, P2018, DOI 10.1016/j.jas.2009.05.021
+   Osberg K. M., 1995, VR Sch, V1, P1
+   Petridis P, 2006, LECT NOTES COMPUT SC, V4270, P408
+   Rennison Benjamin., 2009, Making History Interactive. Computer Application and Quantitative methods in Archaeology (CAA): proceedings of the 37th international conference, Williamsburg, Virginia, USA, March 22-26, P1
+   Weber JillA., 2011, SAA ARCHAEOLOGICAL R, V11, P15
+   Witmer D.F., 1999, Doing internet research: Critical issues and methods for examining the net, P163
+NR 48
+TC 21
+Z9 25
+U1 0
+U2 40
+PU ELSEVIER FRANCE-EDITIONS SCIENTIFIQUES MEDICALES ELSEVIER
+PI ISSY-LES-MOULINEAUX
+PA 65 RUE CAMILLE DESMOULINS, CS50083, 92442 ISSY-LES-MOULINEAUX, FRANCE
+SN 1296-2074
+EI 1778-3674
+J9 J CULT HERIT
+JI J. Cult. Herit.
+PD JAN-FEB
+PY 2016
+VL 17
+BP 179
+EP 187
+DI 10.1016/j.culher.2015.04.006
+PG 9
+WC Archaeology; Art; Chemistry, Analytical; Geosciences, Multidisciplinary;
+   Materials Science, Multidisciplinary; Spectroscopy
+WE Science Citation Index Expanded (SCI-EXPANDED); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Archaeology; Art; Chemistry; Geology; Materials Science; Spectroscopy
+GA DH0OU
+UT WOS:000372484300020
+OA Green Accepted
+DA 2026-11-10
+ER
+
+PT J
+AU Kanga, Z
+   Schubert, A
+AF Kanga, Zubin
+   Schubert, Alexander
+TI Flaws in the Body and How We Work with Them: An Interview with Composer
+   Alexander Schubert
+SO Contemporary Music Review
+LA English
+DT Article
+DE Alexander Schubert; Zubin Kanga; Gesture; Technology; Video; Sensors;
+   German; Composer
+AB This interview with Alexander Schubert, one of the most significant of the younger generation of German composers, examines his work as an innovator of new types of gesture-technology relationships. We begin by discussing his background, education and influences, and in particular his relationship to the peers discussed above. We then examine some specific questions about his use of video (both live and prerecorded) and the use of choreographed gestures. Finally, we discuss four key works which show three very different approaches to his use of gesture. Your Fox's a Dirty Gold for solo performer with voice, motion sensors, electric guitar, and live-electronics (2011) features a solo performer, singing and seeming to play electric guitar, although all the sounds are produced by the movement of sensors, rather than the instrument. Laplace Tiger for drum-kit, arm-sensor, live electronics, and live video (2009) shows the use of live video triggered by the drummer's gestures, amplifying while also transforming the audience's perceptions of these movements and the resultant sounds. Sensate Focus for electric guitar, bass clarinet, violin, percussion, live-electronics and animated light (2014) uses lighting to create the illusion that the ensemble on stage is a digital projection. And HELLO for any number of instruments, live-electronics and video (2014) uses a video of himself performing everyday tasks in his home, as both the graphic score and the 'conductor' for the ensemble.
+C1 [Kanga, Zubin] Ensemble Offspring, Tempe, NSW, Australia.
+   [Kanga, Zubin] Univ Cote dAzur, Nice, France.
+   [Kanga, Zubin] Royal Acad Mus, London, England.
+C3 Universite Cote d'Azur; University of London; University of London Royal
+   Academy of Music
+RP Kanga, Z (corresponding author), Ensemble Offspring, Tempe, NSW, Australia.; Kanga, Z (corresponding author), Univ Cote dAzur, Nice, France.; Kanga, Z (corresponding author), Royal Acad Mus, London, England.
+FU ANR (National Agency for Research, France)
+FX This article is part of Zubin Kanga's post-doctoral research at the CTEL
+   research centre at the University of the Cote d'Azure, within the GEMME
+   project on Music and Gesture, supported by funds granted by the ANR
+   (National Agency for Research, France).
+CR Walshe J., 2016, MUSIKTEXTE       MAY
+NR 1
+TC 4
+Z9 6
+U1 0
+U2 8
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0749-4467
+EI 1477-2256
+J9 CONTEMP MUSIC REV
+JI Contemp. Music Rev.
+PY 2016
+VL 35
+IS 4-5
+BP 535
+EP 553
+DI 10.1080/07494467.2016.1258105
+PG 19
+WC Music
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Music
+GA EI8KI
+UT WOS:000392754900008
+DA 2026-11-10
+ER
+
+PT J
+AU Novack, MA
+   Wakefield, EM
+   Goldin-Meadow, S
+AF Novack, Miriam A.
+   Wakefield, Elizabeth M.
+   Goldin-Meadow, Susan
+TI What makes a movement a gesture?
+SO COGNITION
+LA English
+DT Article
+DE Gesture; Action-understanding; Representational movement
+ID TEACHERS GESTURES; FOREIGN-LANGUAGE; ICONIC GESTURES; CHILDREN; GOAL;
+   INFORMATION; EMBODIMENT; ABILITY; PICTURE; TRACK
+AB Theories of how adults interpret the actions of others have focused on the goals and intentions of actors engaged in object-directed actions. Recent research has challenged this assumption, and shown that movements are often interpreted as being for their own sake (Schachner & Carey, 2013). Here we postulate a third interpretation of movement movement that represents action, but does not literally act on objects in the world. These movements are gestures. In this paper, we describe a framework for predicting when movements are likely to be seen as representations. In Study 1, adults described one of three scenes: (1) an actor moving objects, (2) an actor moving her hands in the presence of objects (but not touching them) or (3) an actor moving her hands in the absence of objects. Participants systematically described the movements as depicting an object-directed action when the actor moved objects, and favored describing the movements as depicting movement for its own sake when the actor produced the same movements in the absence of objects. However, participants favored describing the movements as representations when the actor produced the movements near, but not on, the objects. Study 2 explored two additional features the form of an actor's hands and the presence of speech-like sounds to test the effect of context on observers' classification of movement as representational. When movements are seen as representations, they have the power to influence communication, learning, and cognition in ways that movement for its own sake does not. By incorporating representational gesture into our framework for movement analysis, we take an important step towards developing a more cohesive understanding of action-interpretation. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Novack, Miriam A.; Wakefield, Elizabeth M.; Goldin-Meadow, Susan] Univ Chicago, Chicago, IL 60637 USA.
+C3 University of Chicago
+RP Novack, MA (corresponding author), Univ Chicago, Dept Psychol, 5848 S Univ Ave, Chicago, IL 60637 USA.
+EM mnovack1@uchicago.edu
+FU NICHD [R01-HD47450, T32-HD07475]; NSF [BCS-0925595]; Institute of
+   Education Sciences [R305 B090025]; Spatial Intelligence and Learning
+   Center - NSF [SBE 0541957]; Eunice Kennedy Shriver National Institute of
+   Child Health and Human Development [T32HD007475] Funding Source: NIH
+   RePORTER
+FX This work was supported by grants from NICHD (R01-HD47450) and NSF
+   (BCS-0925595) to Goldin-Meadow, a grant from the Institute of Education
+   Sciences (R305 B090025) to S. Raudenbush in support of Novack, a
+   Training Grant from NICHD (T32-HD07475) to L.B. Smith in support of
+   Wakefield, and by the Spatial Intelligence and Learning Center funded by
+   NSF (SBE 0541957, Goldin-Meadow is a PI).
+CR Alibali MW, 2012, J LEARN SCI, V21, P247, DOI 10.1080/10508406.2011.611446
+   Alibali MW, 1999, COGNITIVE DEV, V14, P37, DOI 10.1016/S0885-2014(99)80017-3
+   Baldwin DA, 2001, CHILD DEV, V72, P708, DOI 10.1111/1467-8624.00310
+   Baldwin DA, 2001, TRENDS COGN SCI, V5, P171, DOI 10.1016/S1364-6613(00)01615-6
+   BLADES M, 1994, J GENET PSYCHOL, V155, P201, DOI 10.1080/00221325.1994.9914772
+   Bower GH, 1999, NARRATIVE COMPREHENSION, CAUSALITY, AND COHERENCE, P111
+   Buresh JS, 2007, COGNITION, V104, P287, DOI 10.1016/j.cognition.2006.07.001
+   Church K. B., 2015, APA HDB NONVERBAL CO
+   Cook SW, 2008, COGNITION, V106, P1047, DOI 10.1016/j.cognition.2007.04.010
+   Crump MJC, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0057410
+   DELOACHE JS, 1987, SCIENCE, V238, P1556, DOI 10.1126/science.2446392
+   DELOACHE JS, 1995, CURR DIR PSYCHOL SCI, V4, P109, DOI 10.1111/1467-8721.ep10772408
+   Dick AS, 2009, HUM BRAIN MAPP, V30, P3509, DOI 10.1002/hbm.20774
+   Ekman Paul., 1969, SEMIOTICA, V1, P49, DOI DOI 10.1515/SEMI.1969.1.1.49
+   Goldin-Meadow S., 2003, Hearing gesture: How our hands help up think
+   Goldin-Meadow S, 2012, DEVELOPMENTAL SCI, V15, P876, DOI 10.1111/j.1467-7687.2012.01185.x
+   Goldin-Meadow S, 2010, LANG COGN, V2, P1, DOI 10.1515/LANGCOG.2010.001
+   Goldin-Meadow S, 2009, PSYCHOL SCI, V20, P267, DOI 10.1111/j.1467-9280.2009.02297.x
+   Goldin-Meadow S, 1999, DEVELOPMENTAL SCI, V2, P67, DOI 10.1111/1467-7687.00056
+   Green A, 2009, HUM BRAIN MAPP, V30, P3309, DOI 10.1002/hbm.20753
+   Hostetter AB, 2008, PSYCHON B REV, V15, P495, DOI 10.3758/PBR.15.3.495
+   Kelly S.D., 2014, Psychonomic Bulletin Review
+   Kelly SD, 2009, LANG COGNITIVE PROC, V24, P313, DOI 10.1080/01690960802365567
+   Kendon A., 2004, Gesture: Vis i ble action as utterance
+   Kendon A., 1994, Research on Language and Social Interaction, V27, P175, DOI [DOI 10.1207/S15327973RLSI2703_2, DOI 10.1207/S15327973RLSI27032]
+   Kirsh D., 2010, P 32 ANN M COGN SCI, P2864, DOI 10.1145/2037296.2037303
+   Lillo-Martin D., 1999, HDB CHILD LANGUAGE A, P531
+   Macedonia M, 2011, HUM BRAIN MAPP, V32, P982, DOI 10.1002/hbm.21084
+   McNeill D., 1992, Hand and Mind
+   Newport E.L., 1985, The crosslinguistic study of language acquisition - Volume 1: The data, P881
+   Newtson D., 1976, NEW DIRECTIONS ATTRI, P223, DOI DOI 10.4324/9780203780978
+   Novack MA, 2015, COGNITION, V142, P138, DOI 10.1016/j.cognition.2015.05.018
+   Novack MA, 2014, PSYCHOL SCI, V25, P903, DOI 10.1177/0956797613518351
+   PERRY M, 1988, COGNITIVE DEV, V3, P359, DOI 10.1016/0885-2014(88)90021-4
+   Ping R, 2010, COGNITIVE SCI, V34, P602, DOI 10.1111/j.1551-6709.2010.01102.x
+   Ping RM, 2008, DEV PSYCHOL, V44, P1277, DOI 10.1037/0012-1649.44.5.1277
+   Schachner A, 2013, COGNITION, V129, P309, DOI 10.1016/j.cognition.2013.07.006
+   Searle J. R., 1980, COGNITIVE SCI, P47
+   Simcock G, 2006, DEV PSYCHOL, V42, P1352, DOI 10.1037/0012-1649.42.6.1352
+   Singer MA, 2005, PSYCHOL SCI, V16, P85, DOI 10.1111/j.0956-7976.2005.00786.x
+   Tolar TD, 2008, J DEAF STUD DEAF EDU, V13, P225, DOI 10.1093/deafed/enm045
+   TRABASSO T, 1992, DISCOURSE PROCESS, V15, P249, DOI 10.1080/01638539209544812
+   Trabasso T., 1982, COGNITIVE DEV, V7, P133
+   Trofatter C., 2014, LANGUAGE COGNITION N
+   Valenzeno L, 2003, CONTEMP EDUC PSYCHOL, V28, P187, DOI 10.1016/S0361-476X(02)00007-3
+   Wakefield EM, 2015, DEV PSYCHOL, V51, P1105, DOI 10.1037/a0039471
+   Woodward AL, 1998, COGNITION, V69, P1, DOI 10.1016/S0010-0277(98)00058-4
+   Zacks JM, 2001, J EXP PSYCHOL GEN, V130, P29, DOI 10.1037//0096-3445.130.1.29
+NR 48
+TC 46
+Z9 62
+U1 0
+U2 27
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0010-0277
+EI 1873-7838
+J9 COGNITION
+JI Cognition
+PD JAN
+PY 2016
+VL 146
+BP 339
+EP 348
+DI 10.1016/j.cognition.2015.10.014
+PG 10
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA CZ5AW
+UT WOS:000367115500032
+PM 26513354
+OA Green Accepted, Bronze
+DA 2026-11-10
+ER
+
+PT J
+AU Schönherr, B
+AF Schoenherr, Beatrix
+TI LANGUAGE AND SPEECH FORMS BETWEEN DIALECT AND STANDARD LANGUAGE
+   Empirical Research on a little explored Terrain: Vorarlberg
+SO ZEITSCHRIFT FUR DIALEKTOLOGIE UND LINGUISTIK
+LA German
+DT Article
+DE dialect-standard continuum; diglossia; Vorarlbergish; code-switching;
+   variation of speech
+ID ORGANIZATION
+AB From a dialect-typological point of view, the classification of the dialect situation in Vorarlberg is rather unproblematic. It is well-known that it is an Alemannic dialect. Somewhat more difficult is its classification from a linguistic-pragmatic and dialect-communicative perspective. The research literature is full of contradictory statements. Some assume a (medial) diglossia in Vorarlberg like in neighboring Switzerland, others assume a dialect-standard continuum comparable to the situation in the Bavarian part of Austria. There have not yet been sufficient empirical investigations to resolve this problem. In this contribution, data will be presented from informal conversations between students as well as from a local council meeting. The data suggest that a dialect-standard continuum does indeed exist in Vorarlberg. The intermediate levels enable addressee-specific variations as a means of ensuring comprehension on the one hand and functional relations on the other. In Alberschwende, a mixture between dialect and standard language can be observed that one can interprete as an element of a functional style. What is more, code-switching occurs. Co-occurring with additional systems of expression such as prosody and gestures as elements of a speech style, it serves to contextualize certain modality types and speech acts.
+C1 [Schoenherr, Beatrix] Univ Innsbruck, Inst Germanist, Innrain 52, A-6020 Innsbruck, Austria.
+C3 University of Innsbruck
+RP Schönherr, B (corresponding author), Univ Innsbruck, Inst Germanist, Innrain 52, A-6020 Innsbruck, Austria.
+EM beatrix.schoenherr@uibk.ac.at
+CR AMMON Ulrich., 2003, Standardfragen". Soziolinguistische Perspektiven auf Sprachgeschichte, Sprachkontakt und Sprachvariation.  VarioLingua. Nonstandard-Standard-Substandard. Band, V18, P163
+   [Anonymous], LINGUISTIK IMPULSE T
+   [Anonymous], THESIS
+   [Anonymous], SPRECH GESPRACHSSTIL
+   [Anonymous], 2012, GRUNDLAGEN GERMANIST
+   [Anonymous], DIALEKTOLOGIE HDB DT, V2, P807, DOI DOI 10.1515/9783110203332
+   Auer J.C.P., 1999, INT J BILINGUAL, V3, P309
+   Auer P., 2005, PERSPECTIVES VARIATI, P7
+   Auer P., 1986, DTSCH SPRACHE, V2, P97
+   Auer P, 1990, PHONOLOGIE ALLTAGSSP
+   BANZER ROMAN, 1996, AM RHII MUNDARTTEXTE, P67
+   BANZER ROMAN, 1990, GERMANISTISCHE LINGU, V101, P341
+   BARON DESIREE, 1999, THESIS
+   BERRUTTO GAETANO, 1987, HDB SPRACH KOMMUNIKA, V31, P263
+   Blom Jan-Peter., 1972, DIRECTIONS SOCIOLING, P407, DOI DOI 10.4324/9781003060406
+   Bohnenberger Karl., 1953, Die alemannische Mundart: Umgrenzung, Innengliederung und Kennzeichnung
+   CHRISTEN HELEN, 2012, VEROFFENTLICHUNG ALE, V80, P159
+   Donegan P., 1979, CURRENT APPROACHES P, P126
+   Dressier W., 1984, PHONOLOGY, V1, P29
+   Dressier Wolfgang U., 1996, Naturalphonology: the state ofthe art, P41
+   DRESSLER WOLFGANG U., 1985, LINGUISTICA EXTRANEA, V12
+   DRESSLER WU, 1982, LANG SOC, V11, P339, DOI 10.1017/S0047404500009350
+   ECKHARDT OSCAR, 2016, Z DIALEKTOLOGIE LING, V162
+   Ekman Paul., 1969, SEMIOTICA, V1, P49, DOI DOI 10.1515/SEMI.1969.1.1.49
+   Ender A, 2009, Z GER LINGUISTIK, V37, P266, DOI 10.1515/ZGL.2009.018
+   ENDER ANDREA, 2014, Z DIALEKTOLOGIE LI S, V155, P131
+   FREUDENBERG RUDOLF, 1965, P 5 INT C PHON SCI H, P300
+   GABRIEL EUGEN, 1963, DTSCH DIALEKTGEOGRAP, V66
+   GABRIEL EUGEN, 1973, UNTERSUCHUNGEN LUDWI, V33, P71
+   Gabriel Eugen, 1985, Vorarlberger Sprachatlas mit Einschluss des Furstentums Liechtenstein, Westtirols und des Allgaus (VALTS)
+   Giles H., 1973, LANG SOC, V2, P177, DOI DOI 10.1017/S0047404500000701
+   Gumperz J.J., 1982, STUDIES INTERACTIONA
+   Herrgen Joachim, 2001, DIALEKTALITAT ALS PH
+   IBELE-VORHOFER ANGELIKA, 1987, THESIS
+   JOCHUM BARBARA, 1999, VERGLEICH GEGENWARTI
+   JUTZ LEO, 1960, HERAUSGEGEBEN OSTERR
+   Kaiser I, 2006, Z DIALEKTOL LINGUIST, V73, P275
+   KAISER IRMTRAUD, 2013, DUISBURG PAPERS RES, V96, P273
+   Kehrein Roland, 2012, Z DIALEKTOLOGIE LING, V152
+   Kendon A., 1980, RELATIONSHIP VERBAL, P207, DOI DOI 10.1515/9783110813098.207
+   KNOBL RALF, 2012, ORALINGUA, V1
+   Lenz Alexandra N., 2003, Z DIALEKTOLOGIE LING, V125
+   Levinson S.C., 1992, Talk at work: Interaction in institutional settings, P66, DOI DOI 10.1515/LING.1979.17.5-6.365
+   Moosmuller Sylvia, 1991, SPRACHWISSENSCHAFTLI, V1
+   REIFFENSTEIN INGO, 1982, INNSBRUCKER BEITRAGE, V13, P9
+   Riehl Claudia Maria, 2014, Sprachkontaktforschung. Eine Einfuhrung, V3
+   RUOFF ARNO, 1998, SCHRIFTEN VORARLBERG, V3
+   RUOFF ARNO, 2008, SCHRIFTEN VORARLBERG, V3
+   SACKS H, 1974, LANGUAGE, V50, P696, DOI 10.2307/412243
+   SCHEGLOFF EA, 1977, LANGUAGE, V53, P361, DOI 10.2307/413107
+   Scheutz H., 1999, DIALEKTGENERATIONEN, P105
+   SCHEUTZ HANNES, 1982, HDB SPRACH KOMMUNIKA, V1, P295
+   Schlobinski P., 1988, Wandlungen einer Stadtsprache, P83
+   SCHMIDT JURGEN ERICH, 2011, GRUNDLAGEN GERMANIST, V49
+   Schönherr B, 2001, Z GER LINGUISTIK, V29, P332, DOI 10.1515/zfgl.2001.023
+   SCHONHERR B, 1997, REIHE GERMANISTISCHE, V182
+   SCHONHERR BEATRIX, 1982, UNTERSUCHUNG SPRECHV
+   Selting M., 1995, Linguistische Arbeiten, V329
+   Selting Margret., 2009, GESPR CHSFORSCHUNG, V10, P353
+   Selting Margret., 2001, Linguistische Berichte, V187, P257
+   SOUKUP BARBARA, 2009, AUSTR STUDIES ENGLIS, V98
+   SPIEKERMANN HELMUT, 2008, LINGUISTISCHE ARBEIT, V526
+   STEGER HUGO, 1983, ARBEITEN HIST ATLAS, V7
+   VonPolenz P, 2009, DEGRUYTER STUDIENB, P1
+   Weinhold Karl, 1863, Alemannische Grammatik
+   Wiesinger Peter, 2014, AUSTRIA FORSCHUNG WI, V2
+NR 66
+TC 2
+Z9 2
+U1 0
+U2 1
+PU FRANZ STEINER VERLAG GMBH
+PI STUTTGART
+PA BIRKENWALDSTRABE 44, D-70191 STUTTGART, GERMANY
+SN 0044-1449
+EI 2366-2395
+J9 Z DIALEKTOL LINGUIST
+JI Z. Dialektol. Linguist.
+PY 2016
+VL 83
+IS 3
+BP 315
+EP 355
+PG 41
+WC Linguistics; Language & Linguistics
+WE Social Science Citation Index (SSCI); Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Linguistics
+GA VB8MC
+UT WOS:000419083900003
+DA 2026-11-10
+ER
+
+PT J
+AU Stegmayer, K
+   Moor, J
+   Vanbellingen, T
+   Bohlhalter, S
+   Müri, RM
+   Strik, W
+   Walther, S
+AF Stegmayer, Katharina
+   Moor, Jeanne
+   Vanbellingen, Tim
+   Bohlhalter, Stephan
+   Muri, Rene M.
+   Strik, Werner
+   Walther, Sebastian
+TI Gesture Performance in First- and Multiple-Episode Patients with
+   Schizophrenia Spectrum Disorders
+SO NEUROPSYCHOBIOLOGY
+LA English
+DT Article
+DE Action planning; Hand gesture; Imitation; Neurodevelopment; Nonverbal
+   communication; Pantomime
+ID HIGH-RISK; 1ST-EPISODE SCHIZOPHRENIA; MOVEMENT ABNORMALITIES; SOCIAL
+   COGNITION; SYMPTOMATOLOGY; ADOLESCENTS; BEHAVIOR; MOTOR; COMMUNICATION;
+   VULNERABILITY
+AB Background/Aim: Gesturing plays an important role in social behavior and social learning. Deficits are frequent in schizophrenia and may contribute to impaired social functioning. Information about deficits during the course of the disease and presence of severity and patterns of impairment in first-episode patients is missing. Hence, we aimed to investigate gesturing in first - compared to multiple-episode schizophrenia patients and healthy controls. Methods: In 14 first-episode patients, 14 multiple-episode patients and 16 healthy controls matched for age, gender and education, gesturing was assessed by the comprehensive Test of Upper Limb Apraxia. Performance in two domains of gesturing imitation and pantomime - was recorded on video. Raters of gesture performance were blinded. Results: Patients with multiple episodes had severe gestural deficits. For almost all gesture categories, performance was worse in multiple-than in first-episode patients. First-episode patients demonstrated subtle deficits with a comparable pattern. Conclusions: Subjects with multiple psychotic episodes have severe deficits in gesturing, while only mild impairments were found in first-episode patients independent of age, gender, education and negative symptoms. The results indicate that gesturing is impaired at the onset of disease and likely to further deteriorate during its course. (C) 2016 S. Karger AG, Basel
+C1 [Stegmayer, Katharina; Moor, Jeanne; Strik, Werner; Walther, Sebastian] Univ Hosp Psychiat, Bern, Switzerland.
+   [Vanbellingen, Tim; Muri, Rene M.] Univ Hosp Bern, Inselspital, Dept Neurol & Clin Res, Percept & Eye Movement Lab, Bern, Switzerland.
+   [Vanbellingen, Tim; Bohlhalter, Stephan] Lucerne Cantonal Hosp, Neurol & Neurorehabil Ctr, Luzern, Switzerland.
+C3 University of Bern; University Hospital of Bern; University of Bern;
+   University Hospital of Bern; Lucerne Cantonal Hospital
+RP Stegmayer, K (corresponding author), Univ Hosp Psychiat Bern, Bolligenstr 111, CH-3060 Bern, Switzerland.
+EM stegmayer@puk.unibe.ch
+RI Müri, René/E-9320-2012; Strik, Werner/N-7807-2013; Moor,
+   Jeanne/OFN-5173-2025; Stegmayer, Katharina/A-6117-2017; Walther,
+   Sebastian/E-3486-2010
+OI Müri, René/0000-0001-6990-4188; Strik, Werner/0000-0001-7108-1993;
+   Vanbellingen, Tim/0000-0002-0884-2005; Stegmayer,
+   Katharina/0000-0002-4611-8966; Moor, Jeanne/0000-0001-8286-618X;
+   Walther, Sebastian/0000-0003-4026-3561; Bohlhalter,
+   Stephan/0000-0002-0723-8164
+FU Swiss National Science Foundation [SNSF: 152619/1]; Bangerter-Rhyner
+   Foundation
+FX This work was supported by the Swiss National Science Foundation (SNSF:
+   152619/1 to S.W. and S.B.) and the Bangerter-Rhyner Foundation (to
+   S.W.).
+CR Bachmann S, 2005, AM J PSYCHIAT, V162, P2337, DOI 10.1176/appi.ajp.162.12.2337
+   Beattie G, 2000, BRIT J PSYCHOL, V91, P473, DOI 10.1348/000712600161943
+   Bilder R.M., 1994, PREDICTION NEUROLEPT, P99
+   Bilder RM, 2000, AM J PSYCHIAT, V157, P549, DOI 10.1176/appi.ajp.157.4.549
+   BOROD JC, 1990, J COMMUN DISORD, V23, P247, DOI 10.1016/0021-9924(90)90003-H
+   Cohen J., 1988, STAT POWER ANAL BEHA, P19, DOI [10.4324/9780203771587, DOI 10.4324/9780203771587]
+   Cornblatt BA, 2007, SCHIZOPHRENIA BULL, V33, P688, DOI 10.1093/schbul/sbm029
+   Couture SM, 2006, SCHIZOPHRENIA BULL, V32, pS44, DOI 10.1093/schbul/sbl029
+   Demirbuga S, 2013, SCHIZOPHR RES, V144, P142, DOI 10.1016/j.schres.2012.12.015
+   Dubois B, 2000, NEUROLOGY, V55, P1621, DOI 10.1212/WNL.55.11.1621
+   DWORKIN RH, 1993, SCHIZOPHRENIA BULL, V19, P563, DOI 10.1093/schbul/19.3.563
+   Fahn S., 1987, RECENT DEV PARKINSON, P153, DOI DOI 10.2490/JJRMC.47.791
+   FOLSTEIN MF, 1975, J PSYCHIAT RES, V12, P189, DOI 10.1016/0022-3956(75)90026-6
+   Guy W., 1976, Clinical Global Impression Scale, V338, P218
+   Heyes C, 2001, TRENDS COGN SCI, V5, P253, DOI 10.1016/S1364-6613(00)01661-2
+   Kalkstein S, 2010, CURR TOP BEHAV NEURO, V4, P373, DOI 10.1007/7854_2010_42
+   KAY SR, 1987, SCHIZOPHRENIA BULL, V13, P261, DOI 10.1093/schbul/13.2.261
+   Lavelle M, 2014, J NERV MENT DIS, V202, P47, DOI 10.1097/NMD.0000000000000031
+   LUND CE, 1991, BRIT J PSYCHIAT, V158, P323, DOI 10.1192/bjp.158.3.323
+   MARCUS J, 1985, SCHIZOPHRENIA BULL, V11, P85, DOI 10.1093/schbul/11.1.85
+   Matthews N, 2013, SCHIZOPHRENIA BULL, V39, P94, DOI 10.1093/schbul/sbr062
+   Miller EK, 2001, ANNU REV NEUROSCI, V24, P167, DOI 10.1146/annurev.neuro.24.1.167
+   Millman ZB, 2014, SCHIZOPHR RES, V158, P64, DOI 10.1016/j.schres.2014.06.007
+   Mittal VA, 2008, ARCH GEN PSYCHIAT, V65, P165, DOI 10.1001/archgenpsychiatry.2007.23
+   Mittal VA, 2007, J ABNORM PSYCHOL, V116, P260, DOI 10.1037/0021-843X.116.2.260
+   Mittal VA, 2006, J ABNORM PSYCHOL, V115, P351, DOI 10.1037/0021-843X.115.2.351
+   Obermeier C, 2012, CORTEX, V48, P857, DOI 10.1016/j.cortex.2011.02.007
+   OLDFIELD RC, 1971, NEUROPSYCHOLOGIA, V9, P97, DOI 10.1016/0028-3932(71)90067-4
+   Park S, 2008, SCHIZOPHRENIA BULL, V34, P698, DOI 10.1093/schbul/sbn048
+   Penn DL, 2008, SCHIZOPHRENIA BULL, V34, P408, DOI 10.1093/schbul/sbn014
+   Peralta V, 2011, COMPR PSYCHIAT, V52, P139, DOI 10.1016/j.comppsych.2010.05.009
+   Peralta V, 2010, MOVEMENT DISORD, V25, P1068, DOI 10.1002/mds.23050
+   Pukrop R, 2006, J CLIN EXP NEUROPSYC, V28, P1388, DOI 10.1080/13803390500434425
+   Quinn J, 2001, SCHIZOPHR RES, V49, P79, DOI 10.1016/S0920-9964(99)00220-0
+   Sheehan DV, 1998, J CLIN PSYCHIAT, V59, P22, DOI 10.4088/JCP.09m05305whi
+   Stegmayer K, 2016, CORTEX, V78, P125, DOI 10.1016/j.cortex.2016.02.014
+   Straube B, 2014, BRAIN RES, V1567, P42, DOI 10.1016/j.brainres.2014.04.012
+   Straube B, 2014, SCHIZOPHRENIA BULL, V40, P936, DOI 10.1093/schbul/sbt110
+   Straube B, 2013, HUM BRAIN MAPP, V34, P1696, DOI 10.1002/hbm.22015
+   Toomey R, 2002, SCHIZOPHR RES, V53, P83, DOI 10.1016/S0920-9964(01)00177-3
+   Vanbellingen T, 2010, EUR J NEUROL, V17, P59, DOI 10.1111/j.1468-1331.2009.02741.x
+   WALKER E, 1990, AM J PSYCHIAT, V147, P1052
+   Walther S, 2016, SCHIZOPHRENIA BULL, V42, P259, DOI 10.1093/schbul/sbv229
+   Walther S, 2015, SCHIZOPHRENIA BULL, V41, P338, DOI 10.1093/schbul/sbu222
+   Walther S, 2013, NEUROPSYCHOLOGIA, V51, P2674, DOI 10.1016/j.neuropsychologia.2013.08.017
+   Walther S, 2013, CORTEX, V49, P520, DOI 10.1016/j.cortex.2011.12.008
+   Walther S, 2012, NEUROPSYCHOBIOLOGY, V66, P77, DOI 10.1159/000339456
+   Woods SW, 2003, J CLIN PSYCHIAT, V64, P663, DOI 10.4088/JCP.v64n0607
+NR 48
+TC 24
+Z9 24
+U1 0
+U2 6
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 0302-282X
+EI 1423-0224
+J9 NEUROPSYCHOBIOLOGY
+JI Neuropsychobiology
+PY 2016
+VL 73
+IS 4
+BP 201
+EP 208
+DI 10.1159/000446116
+PG 8
+WC Neurosciences; Psychiatry; Psychology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Neurosciences & Neurology; Psychiatry; Psychology
+GA DT4KD
+UT WOS:000381447700002
+PM 27229523
+OA Green Submitted, Bronze
+DA 2026-11-10
+ER
+
+PT J
+AU Zanovello, G
+AF Zanovello, Giovanni
+TI 'You Will Take This Sacred Book': The Musical Strambotto as a Learned
+   Gift
+SO JOURNAL OF THE ROYAL MUSICAL ASSOCIATION
+LA English
+DT Article
+ID TRADITION; FROTTOLA
+AB The MS Modena, Biblioteca Estense e Universitaria, alpha.F.9.9 is by far the most lavish collection produced in the short-lived history of the musical frottola. In its pages, unassuming four-voice secular settings are preceded by citations from Pliny and Isidore and surrounded by dazzling illuminations of birds, fruits and plants. If splendour is never amiss in gifts, one must wonder what the relationship was between the components of this intriguing artefact. In this article I investigate the gift value of the source by examining the musical repertory and style in conjunction with its other features. I propose that musical strambotti enabled fifteenth-century educated Italians to perform symbolic gestures associated with ancient music. The repertory was also perfectly congruous with the poetic and decorative choices made for the manuscript. The examination of this peculiar source helps shed more light on the musical strambotto, its uses and its implied cultural associations.
+C1 [Zanovello, Giovanni] Indiana Univ, Jacobs Sch Mus, Musicol, Bloomington, IN 47405 USA.
+C3 Indiana University System; Indiana University Bloomington
+RP Zanovello, G (corresponding author), Indiana Univ, Jacobs Sch Mus, Musicol, Bloomington, IN 47405 USA.
+EM giovzano@indiana.edu
+OI Zanovello, Giovanni/0009-0006-5792-2083
+CR Alm Irene, 1996, Musica Franca: Essays in Honor of Frank A. DAccone, P19
+   Ames-Lewis Francis, 1993, Piero de'Medici "il Gottoso" (1416-1469): Kunst Im Dienste der Mediceer; Art in the Service of the Medici, P207
+   [Anonymous], 2007, ART NETWORK STRATEGI
+   [Anonymous], 1969, BIBLIO HANDSCHRIFTLI, p[76, 166]
+   Arnaldi Girolamo, 1980, PRIMO QUATTROCENTO C, P285
+   Bent Margaret., 1998, P BRIT ACAD, V101, P101
+   Bianconi Giuseppina La Face, 1990, STRAMBOTTI NEL CODIC
+   Bianconi Giuseppina La Face, 1999, RIME SERAFINO AQUILA, P213
+   Bigi Emilio, 1967, CULTURA POLIZIANO AL, P67
+   Blackburn BJ, 1997, EARLY MUSIC, V25, P593, DOI 10.1093/em/25.4.593
+   Blackburn BJ, 1999, J ROY MUSIC ASSN, V124, P157, DOI 10.1093/jrma/124.2.157
+   Bloxam M.Jennifer., 2011, Journal of the Alamire Foundation, V3, P11
+   Bobeth Gundela., 2010, NIVEAUNISCHENIMBUS A, V3, P67
+   Bonniffet Pierre, 2005, HOMMAGE CLAUDE JEUNE, P7
+   Boorman Stanley, 2006, OTTAVIANO PETRUCCI C, p[251, 274]
+   Boscolo Lucia, 1999, FROTTOLE LIBRO OCTAV
+   Boscolo Lucia, 2006, FROTTOLE LIBRO SEPTI
+   Brancacci F, 2005, STUD MUSIC, V34, P267
+   Brown HowardMayer., 1983, A Florentine Chansonnier from the Time of Lorenzo the Magnificent
+   Bullard Melissa Meriam, 1994, LORENZO MAGNIFICO IM, P3
+   Burn DJ, 2011, J MUSICOLOGY, V28, P1, DOI 10.1525/jm.2011.28.1.1
+   Calmeta Vincenzo, 1959, PROSE LETT EDITE INE, P75
+   Cardona Giorgio Raimondo, 1983, LETT ITAL, P24
+   Casimiri Raffaele, 1942, MUSICA MUSICISTI NEL, p[16, 98, 104]
+   Cattin Giulio, 1976, STORIA CULTURA VENET, piii
+   Cavicchi Camilla, 2011, ORLANDO FURISO ALTRO, P263
+   Cirese Alberto Mario, 1988, RAGIONI METRICHE VER, P115
+   D'Accone Frank A., 1987, MODENA BIBLIOTECA ES
+   DACCONE FA, 1994, LORENZO DE MEDICI AND HIS WORLD, P259
+   Davis NatalieZemon., 2000, GIFT 16 CENTURY FRAN
+   Doglio MariaLuisa., 1993, Il ritratto del privato politico cristiano, P9
+   Erasmus Desiderius, 1976, CORRES ERASMUS, p[iii, 43]
+   Facchin Francesco, 1999, FROTTOLE LIBRO NONO
+   Firth Raymond., 1973, Symbols: Public and Private
+   Fumian Silvia, 2012, 58 M REN SOC AM WASH
+   Gallo F. Alberto, 1995, MUSIC CASTLE TROUBAD, P69
+   GOMBOSI OO, 1955, COMPOSITIONE MESER V
+   Grafton Anthony., 1986, HUMANISM HUMANITIES
+   Grafton Anthony., 2010, MUSIC ED MIDDLE AGES, P141
+   Haar J., 2004, L'arme e gli amori. Ariosto, Tasso and Guarini in Late Renaissance, V20, P179
+   Haar James., 1986, ESSAYS ITALIAN POETR, P76
+   Haar James., 1989, Performance Practice: Music Before 1600, P240
+   Haar James., 1998, SCI ART RENAISSANCE, P20
+   Haar James., 1981, LARIOSTO, P31
+   HAGGH B, 1995, MUSIC LETT, V76, P325, DOI 10.1093/ml/76.3.325
+   Harran Don, 2001, NEW GROVE DICT MUSIC, p[ix, 294]
+   Jeppesen Knud, 1968, LA FROTTOLA, pii
+   Lenzuni A., 1992, ALLOMBRA LAURO DOCUM
+   LOCKWOOD L, 1995, J ROY MUSIC ASSN, V120, P151
+   Lorenzetti Stefano., 2003, Musica e identita nobiliare nell'ltalia del rinascimento. Educazione, mentalita
+   Luisi Francesco, 1997, FROTTOLE LIBRO UNDEC
+   Macey Patrick, 1998, BONFIRE SONGS SAVONA, P91
+   Marincola Federico., 1999, Luths et luthistes en Occident, P135
+   Mauss Marcel., 1925, GIFT FORMS FUNCTIONS
+   McGee Timothy J., 2009, CEREMONIAL MUSICIANS, P158
+   Meine Sabine, 2013, FROTTOLA MUSIK DISKU, P277
+   Miani Carlo, 1972, PETRI PAULI VERGERII, P183
+   Molho Anthony., 1979, STANFORD ITAL REV, V1, P5
+   Nagel Alexander, 2010, Anachronic Renaissance, P29
+   Petrucci  Ottaviano, 2004, FROTTOLE LIBRO SEXTO
+   Petrucci Ottaviano, 1967, FROTTOLE BUCH NACH E, p[xxxix, 52]
+   Petrucci Ottaviano, 1967, FROTTOLE BUCK, p[xxxix, 52]
+   Piazzo Marcello Del, 1956, PROTOCOLLI CARTEGGIO, p[329, 342]
+   Pirrotta Nino., 1994, POESIA MUSICA ALTRI, P89
+   Pirrotta Nino., 1982, Music and theatre from Poliziano to Monteverdi, P3
+   Pirrotta Nino., 1966, J AM MUSIC SOC, V19, P127
+   PRIZER WF, 1986, STUD MUSIC, V15, P3
+   PRIZER WF, 1991, J MUSICOLOGY, V9, P3, DOI 10.1525/jm.1991.9.1.03a00010
+   Prizer William F., 1981, Rivista italiana di musicologia, V16, P151
+   Prizer WilliamF., 1980, Courtly Pastimes: The Frottole of Marchetto Cara
+   Rothenberg DJ, 2004, J MUSICOLOGY, V21, P514, DOI 10.1525/jm.2004.21.4.514
+   Rubinstein Nicolai., 1966, GOVT FLORENCE MEDICI, V2nd
+   Schmidt-Beste Thomas., 2008, Cui Dono Lepidum Novum Libellum?: Dedicating Latin Works and Motets in the Sixteenth Century; Supplementa Humanistica Lovaniensia, P81
+   Sebregondi Ludovica, 1992, ARCH STORICO ITAL, V150, P343
+   Shephard T, 2010, RENAISSANCE QUART, V63, P84, DOI 10.1086/652534
+   SLIM HC, 1988, STUD MUSIC, V17, P33
+   STROHM R, 1996, J ROY MUSIC ASSN, V121, P1, DOI 10.1093/jrma/121.1.1
+   Strohm Reinhard, 2001, NEW GROVE DICT MUSIC, p[xii, 576]
+   Strohm Reinhard, 1993, RISE EUROPEAN MUSIC, P540
+   Strohm Reinhard., 2001, MUSIC CONCEPT PRACTI, V3, part 1. New edition, P346
+   Tomlinson Gary., 1993, MUSIC RENAISSANCE MA
+   Trexler Richard, 1991, PUBLIC LIFE RENAISSA, P419
+   Wegman R, 2005, EARLY MUSIC, V33, P425, DOI 10.1093/em/cah102
+   Wegman RC, 1997, HEARING THE MOTET, P122
+   WEGMAN RC, 1995, J MUSICOLOGY, V13, P18, DOI 10.1525/jm.1995.13.1.03a00020
+   Wegman Rob, 2005, CRISIS MUSIC EARLY M, P17
+   Wilson B, 2006, J MUSICOLOGY, V23, P97, DOI 10.1525/jm.2006.23.1.97
+   Wilson Blake, 2009, SINGING POETRY RENAI, P128
+   WRIGHT C, 1976, REV MUSICOL, V62, P204, DOI 10.2307/928794
+   Zanovello Giovanni, 2001, POETIQUES RENAISSANC, P625
+   Zanovello Giovanni, 2012, MUSIC ROOM EARLY MOD, P163
+   Zuliani Luca, 2009, POESIA VERSI MUSICA, p[59, 136]
+NR 92
+TC 1
+Z9 3
+U1 0
+U2 3
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0269-0403
+EI 1471-6933
+J9 J ROY MUSIC ASSN
+JI J. Roy. Music. Assoc.
+PY 2016
+VL 141
+IS 1
+BP 1
+EP 26
+DI 10.1080/02690403.2016.1151230
+PG 26
+WC Music
+WE Arts &amp; Humanities Citation Index (A&amp;HCI)
+SC Music
+GA DR0UP
+UT WOS:000379622700001
+DA 2026-11-10
+ER
+
+EF
